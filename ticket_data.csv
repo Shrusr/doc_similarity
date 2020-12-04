@@ -1,0 +1,814 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Reporter,Priority,Status,Resolution,Created,Updated,Votes
+Support Request,JRACLOUD-44545,766785,need to know SLA details on urgent basis SEN-2106190,,masalam2,,Closed,Tracked Elsewhere,28/Jul/2015 12:01 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-43498,767302,Document jira.text.field.character.limit ,mmallorquincanet,matt.doar,,Closed,Fixed,21/May/2015 7:33 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-43519,767131,Update on Application Links Version Matrix,rrobins,lrura,,Closed,Done,25/May/2015 5:23 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-43507,762929,Documentation for JIRA - HP Service Manager Integration ,llu,acardino,,Closed,Obsolete,22/May/2015 1:06 PM,11/Aug/2019 5:03 PM,2
+Support Request,JRACLOUD-43493,760707,Document the JRE version used with JIRA,wthompson,matt.doar,,Closed,Tracked Elsewhere,21/May/2015 4:01 PM,04/Feb/2019 2:46 PM,0
+Support Request,JRACLOUD-23001,758585,Bulk Download,pgisbey,ddeare,,Closed,Won't Do,11/Nov/2010 3:39 PM,19/Sep/2018 4:16 AM,0
+Support Request,JRACLOUD-59243,772331,JIRA Automation plugins,,mohammed.alhomran,,Closed,Support Request,06/Jan/2016 5:03 AM,02/Apr/2017 11:14 AM,0
+Support Request,JRACLOUD-59026,766807,Jira 25 User license,,itrmg,,Closed,Support Request,16/Dec/2015 10:30 AM,02/Apr/2017 11:14 AM,0
+Support Request,JRACLOUD-43499,767935,Upgrading JIRA Manually Instructions update suggestions,wthompson,khannon,,Closed,Fixed,21/May/2015 10:32 PM,02/Apr/2017 11:00 AM,0
+Support Request,JRACLOUD-31471,740514,I cannot download greenhopper I keep getting the a...,,feedback-bot,,Closed,Handled by Support,25/Jan/2013 2:36 PM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-37175,730947,Can't create new Workflow Status > Error DataAccessException,,markus.tollmann,Highest,Closed,Support Request,25/Feb/2014 8:58 AM,15/Aug/2019 5:41 AM,0
+Support Request,JRACLOUD-42448,756270,Problems with Tempo Timesheet,,emmanuel.cencerrado,Highest,Closed,Answered,13/Mar/2015 1:57 PM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-26345,745672,"Can't save ""advanced"" filters",mchin,dcorlette,Highest,Closed,Handled by Support,21/Nov/2011 6:14 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-36078,771718,"When the new ""state"", appears ERROR: duplicate key value violates unique constraint ""pk_issuestatus"" ",,chengdan,Highest,Closed,Support Request,05/Dec/2013 8:38 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-37648,771555,Errors importing from local jira to OnDemand Jira.,,blukas,Highest,Closed,Support Request,24/Mar/2014 10:23 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-59684,771328, Error in Deleting an Issue & Uploading an Attachment,,sabarish.chokkalingom,Highest,Closed,Support Request,05/Feb/2016 7:11 AM,15/Aug/2019 5:39 AM,1
+Support Request,JRACLOUD-37021,768335,Old URL is not working after upgrading JIRA to 6.1.7,,achopra,Highest,Closed,Resolved Locally,15/Feb/2014 8:39 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37611,767921,Readonly fields are editable through inline editing ,,abhishek.sharma,Highest,Closed,Support Request,24/Mar/2014 8:49 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-28982,746229,Standard Upgrade from 5.0.5 to 5.1 fails,,teichfeld,Highest,Closed,Handled by Support,17/Jul/2012 6:30 PM,15/Aug/2019 5:38 AM,1
+Support Request,JRACLOUD-37290,770768,"Log in to JIRA as a user with administrative rights.From the JIRA dashboard click the  (settings) icon.Choose Add-ons. If the Marketplace banner appears, skip through by choosing the Manage add-ons link.",,anand.sunku,Highest,Closed,Support Request,25/Feb/2014 3:51 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-28410,746756,Not able to manage project level permission,,kapokfly,Highest,Closed,Handled by Support,29/May/2012 3:34 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36323,753051,JIRA problem on Windows 8.1,,6f221101-0d64-4a62-b267-ad18166904cd,Highest,Closed,Support Request,27/Dec/2013 11:18 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-40045,753171,Our Link is not working,,prashant.dixit,Highest,Closed,Support Request,19/Sep/2014 7:00 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-39962,752784,Exception occurred while configuring the project template,,danny8,Highest,Closed,Answered,27/Jun/2014 10:07 PM,15/Aug/2019 5:37 AM,1
+Support Request,JRACLOUD-36382,730371,Receiving an Issue Ranking Operation log entry found where none expected error.,,suzanne.flegel,Highest,Closed,Support Request,07/Jan/2014 12:57 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-33414,745763,configure custom priority options per project,,eunice.mora,Highest,Closed,Support Request,06/Jun/2013 8:26 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-47619,772937,"AJAX saves fail on JIRA Cloud (comments, resolution)",,zoltan.lehoczky1,Highest,Closed,Support Request,24/Nov/2015 8:34 PM,15/Aug/2019 5:36 AM,3
+Support Request,JRACLOUD-37603,745031,Jira wrongly inactive ladp users,,olga.pliskogrissik,Highest,Closed,Duplicate,23/Mar/2014 9:17 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37604,744665,Problem with syncronization Jira 6.1.5 and openLdap,,olga.pliskogrissik,Highest,Closed,Support Request,23/Mar/2014 9:21 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37479,744140,JIRA instance was down : occupied more resources in CPU.,,nsk,Highest,Closed,Support Request,14/Mar/2014 3:19 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37315,744297,Jira keeps crashing - Cannot pull EOM Tempo Reports,,coconnell,Highest,Closed,Support Request,03/Mar/2014 10:03 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35560,743176,our JIRA site is down,,tpietro,Highest,Closed,Support Request,29/Oct/2013 8:12 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36965,741052,Dashboard Not Showing On Some Computers ,,arash.aghamirzayi,Highest,Closed,Support Request,12/Feb/2014 6:10 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-47616,739360,Commenting hangs,,thagen,Highest,Closed,Support Request,02/Dec/2015 10:18 PM,15/Aug/2019 5:35 AM,1
+Support Request,JRACLOUD-38099,771620,cannot see issues on IE8 ,,alessio.fimognari,Highest,Closed,Support Request,30/Apr/2014 12:00 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-36846,758448,Cannot create a new issue,,sushma1,Highest,Closed,Support Request,04/Feb/2014 6:32 PM,15/Aug/2019 5:35 AM,1
+Support Request,JRACLOUD-32550,735046,Can't remove post function from Create Transition,,bdaniels1,Highest,Closed,Handled by Support,11/Apr/2013 5:46 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37256,768513,Reindexing fails: Cannot invoke method getValidators() on null object,,mi+atlassian-2013,Highest,Closed,Support Request,28/Feb/2014 4:20 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-59120,771018,Token is getting rejected upon logging in to UI,,aidin.mahmoodi,Highest,Closed,Support Request,23/Dec/2015 8:46 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37506,768300,Assign Ticket to component lead with post function,,athanasios.bladis,Highest,Closed,Support Request,17/Mar/2014 8:58 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37723,728702,"Email is not working, we need help urgently",,michelle2,Highest,Closed,Support Request,31/Mar/2014 11:24 AM,15/Aug/2019 5:34 AM,3
+Support Request,JRACLOUD-36431,726272,Double billing the customer using Jira Projects,,andy28,Highest,Closed,Support Request,09/Jan/2014 2:32 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37724,770823,Last E-mail notification from JIRA at 03:00 (AM) MSK Time,,admin111,Highest,Closed,Support Request,31/Mar/2014 11:30 AM,15/Aug/2019 5:34 AM,3
+Support Request,JRACLOUD-36831,767663,Cannot create a new issue,,sushma1,Highest,Closed,Support Request,03/Feb/2014 5:14 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36988,727181,"Unable to attach files, screenshots, and mockups to new or existing issues",,ndodds,Highest,Closed,Support Request,05/Feb/2014 4:34 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34083,726677,Not able to see any Jira Issue details and hence not modify them also,,deepak.singhal,Highest,Closed,Support Request,29/Jul/2013 2:38 PM,15/Aug/2019 5:33 AM,1
+Support Request,JRACLOUD-32580,729652,"The following plugins are required by JIRA, but have not been started:",,tmofardin,Highest,Closed,Handled by Support,14/Apr/2013 6:17 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36396,725529,Problems to create a ticket,,fs3,Highest,Closed,Support Request,07/Jan/2014 1:21 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-29833,725422,Issue Type,,nkumar1095,Highest,Closed,Handled by Support,22/Sep/2012 12:37 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-30106,727346,"Cannot create issues since the latest update, Google Chrome",,adamconder,Highest,Closed,Handled by Support,15/Oct/2012 10:06 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36945,727313,JIRA shows under maintenance message when I open the Project administration page,,nikhil.bhasin,Highest,Closed,Support Request,11/Feb/2014 12:21 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32821,727282,Deleted screen and now unable to access Administration -> Workflows. ,,pooja.nair,Highest,Closed,Handled by Support,29/Apr/2013 7:09 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-28881,767174,crashing during Reindexing,,lalgudiexpress,Highest,Closed,Handled by Support,10/Jul/2012 1:28 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-28194,735456,Not able to add large number of users to 'Project Users' project role,,dnjk83,Highest,Closed,Done,09/May/2012 9:22 AM,19/Sep/2018 4:57 AM,0
+Support Request,JRACLOUD-27106,728042,Error in JIRA setup,,rumceisz,Highest,Closed,Handled by Support,13/Feb/2012 7:47 PM,19/Sep/2018 4:52 AM,0
+Support Request,JRACLOUD-26209,744749,Upgrading to v4.4.3 is causing all ,bdziedzic,jfota,Highest,Closed,Handled by Support,09/Nov/2011 8:06 PM,14/Sep/2018 5:08 AM,0
+Support Request,JRACLOUD-31525,735415,MS Active Directory LDAP users cannot login to Jira 5.2.5 if the DB is connected to an external Oracle 11g database,,gliang,Highest,Closed,Done,31/Jan/2013 6:54 PM,11/Sep/2018 5:57 AM,0
+Support Request,JRACLOUD-31348,767701,"The following plugins are required by JIRA, but have not been started",yen@atlassian.com,pgoudman@gmail.com,Highest,Closed,Not a bug,17/Jan/2013 4:07 PM,10/Sep/2018 6:06 AM,0
+Support Request,JRACLOUD-61561,732571,Does not have access to jira,,m.aminiomam15467726,Highest,Closed,Support Request,19/Jun/2016 5:58 AM,02/Apr/2017 11:23 AM,0
+Support Request,JRACLOUD-35558,743171,"Sorry, an error occurred trying to log you in - please try again.",,valeriy.garnitskiy,Highest,Closed,Support Request,29/Oct/2013 7:55 PM,02/Apr/2017 10:30 AM,0
+Support Request,JRACLOUD-35273,737925,Connection between Spring suite and JIRA,,ellor.henriett,Highest,Closed,Support Request,11/Oct/2013 5:41 PM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-35073,770642,ERROR while migrating ondemand,,wolfgang.seidler,Highest,Closed,Fixed,29/Sep/2013 1:13 PM,02/Apr/2017 10:28 AM,0
+Support Request,JRACLOUD-31420,742990,Not showing search results with filter < 1970 in a custom data field ,,pedro.garcia.juan,Highest,Closed,Handled by Support,24/Jan/2013 7:32 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-27566,730232,Jira crash with OutOfMemoryError,,tiago.matias@gmail.com,Highest,Closed,Fixed,19/Mar/2012 11:59 AM,02/Apr/2017 10:01 AM,0
+Support Request,JRACLOUD-26905,735060,How to change the Project Key value,bdziedzic,santosh,Highest,Closed,Handled by Support,25/Jan/2012 9:49 AM,02/Apr/2017 9:59 AM,0
+Support Request,JRACLOUD-26593,745714,Cannot create Application Links to Crucible (defaults to Anonymous),bdziedzic,febbraro,Highest,Closed,Handled by Support,16/Dec/2011 9:38 PM,02/Apr/2017 9:58 AM,2
+Support Request,JRACLOUD-26391,725712,Support for ≤ character,bdziedzic,raheel.siddiqui,Highest,Closed,Handled by Support,28/Nov/2011 9:46 AM,02/Apr/2017 9:57 AM,0
+Support Request,JRACLOUD-14370,767578,I cannot retrieve issues in XML format by using a filter,,marianobntz,High,Closed,Handled by Support,30/Jan/2008 9:30 PM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-36351,735061,"when shared filter to other user,other user can copy this filter & filter navigator columns setting",,y_shliao,High,Closed,Support Request,03/Jan/2014 8:11 AM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-37692,771558,Error Exception on Editing Issue,,alessandro.gorna,High,Closed,Support Request,27/Mar/2014 4:31 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-38039,768547,JIRA IndexReader is leaking file descriptors,,matt.doar,High,Closed,Support Request,25/Apr/2014 5:19 PM,15/Aug/2019 5:38 AM,1
+Support Request,JRACLOUD-34340,767050,AD account always locked out in configuration of email notification,,wwyhy520,High,Closed,Support Request,16/Aug/2013 2:02 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-38086,770770,Error when attempting to send test email to external address,,tony.ramos,High,Closed,Support Request,29/Apr/2014 8:13 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36264,770613,Add gadget subscriptions from another JIRA instance does not work ,,skhamassi,High,Closed,Support Request,19/Dec/2013 7:18 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-42451,755890,How to Switch AD that has different user names,,jmedalen,High,Closed,Support Request,13/Mar/2015 4:18 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-28955,755700,JIRA cannot sync AD users completely,,andy20008,High,Closed,Handled by Support,16/Jul/2012 7:40 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-33320,754926," An error occurred whilst rendering this message. Please contact the administrators, and inform them of this bug. Details: ------- ",,shendepu1,High,Closed,Handled by Support,30/May/2013 7:33 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37696,745057,bitbucket import,,jean-simon.roy,High,Closed,Support Request,27/Mar/2014 8:10 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-28370,745029,Image in Mail Handler Crashing JIRA,,harry.chan,High,Closed,Handled by Support,24/May/2012 1:55 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-39248,743937,Cannot display and update timespent originalestimate with SOAP API remoteissue,,muhammad.f.ali,High,Closed,Answered,23/Jul/2014 3:26 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-27540,743169,Error when manually backing up data as xml,,michel0p,High,Closed,Fixed,16/Mar/2012 8:07 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35464,743073,Sprints gone after upgrading to Jira 6.1.1,,brett.murphy,High,Closed,Support Request,23/Oct/2013 1:46 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-31086,741026,activity stream bug on multi virtual hosts,,jamesbai,High,Closed,Handled by Support,26/Dec/2012 6:45 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-59115,771895,Jira  application is not coming up ,,mohammed.alhomran,High,Closed,Support Request,23/Dec/2015 4:24 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37042,735097,404 error when trying to Get started JIRA Service Desk,,profer,High,Closed,Support Request,17/Feb/2014 1:01 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-36360,735077,"When installing Jira, after Set Up Administrator Account i get error",,aris3,High,Closed,Support Request,03/Jan/2014 6:28 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-36826,734566,Resolution set to Fixed when editing issue,,michael.mumcuoglu,High,Closed,Support Request,03/Feb/2014 1:43 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37302,731282,Defective evaluation license.,,forpdfsending,High,Closed,Answered,03/Mar/2014 2:00 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38208,771184,"Site crashed, after server reboot JS/CSS issues",,a.moquia,High,Closed,Support Request,07/May/2014 9:17 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-45226,768469,operators <= (Less than or equal to) and > (greater than) are not working properly with dates,,jkind,High,Closed,Support Request,04/Sep/2015 3:54 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36651,768536,Screenshot applet doesn't work after I use CAS SSO,,497225143,High,Closed,Support Request,22/Jan/2014 12:14 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-34122,730478,Error - Communications Breakdown -The Jira server could not be contacted...,,mxk,High,Closed,Support Request,31/Jul/2013 2:50 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37091,726240,jira not displaying page-content properly on mozilla-27.,,vyas.madhusudan,High,Closed,Support Request,19/Feb/2014 1:53 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36845,767870,Getting null pointer exception randomly,,dan.obrien,High,Closed,Support Request,04/Feb/2014 6:02 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37402,726867,JIRA was down suddenly. And started working we have not done any correction.,,sudharsang,High,Closed,Support Request,08/Mar/2014 5:47 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37391,726803,After Upgrade to 6.2 we can't browse to our projects,,a.scharlau,High,Closed,Support Request,07/Mar/2014 8:15 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36723,726374,Certain languages change and cannot be viewed correctly,,shyjup,High,Closed,Support Request,27/Jan/2014 8:39 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37220,725931,Notification emails are not sent to any one (as defined in the notification scheme),,pragadeeswaran.p,High,Closed,Support Request,27/Feb/2014 7:27 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37215,725919,"Upgrade to 6.2 ""Deletes"" Issues",,jwynacht1,High,Closed,Support Request,27/Feb/2014 3:39 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37129,725655,"Why did you ""disable"" our email collectors?",,maury.hill,High,Closed,Support Request,20/Feb/2014 7:16 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35117,770659,JIRA has been installed to run as jira so please sudo run this to enable switching to that user,,yan1,High,Closed,Support Request,01/Oct/2013 6:52 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-59066,725287,This version of JIRA is unrecognized by the Atlassian Marketplace. It might be a non-standard build or be too new to appear.,,reinbold69980948,High,Closed,Support Request,18/Dec/2015 12:05 PM,15/Aug/2019 5:33 AM,2
+Support Request,JRACLOUD-36649,770553,Jira ubuntu 13.10 Critical File Permission  Bug,,kb.damian,High,Closed,Support Request,21/Jan/2014 8:34 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-59680,767638,JIRA Licence Issue,,iman.attia82423486,High,Closed,Obsolete,04/Feb/2016 3:27 PM,11/Aug/2019 5:03 PM,0
+Support Request,JRACLOUD-26170,746369,User Picker stops working after restart (with MS-AD User Directory),mchin,hermann,High,Closed,Handled by Support,07/Nov/2011 12:47 PM,19/Sep/2018 4:57 AM,0
+Support Request,JRACLOUD-29519,726068,Stopwatching throws the error,,dthakkar,High,Closed,Handled by Support,28/Aug/2012 9:39 AM,19/Sep/2018 4:57 AM,0
+Support Request,JRACLOUD-26685,746851,NullPointerException during upgrade process,,minfrin,High,Closed,Handled by Support,31/Dec/2011 2:27 AM,19/Sep/2018 4:52 AM,0
+Support Request,JRACLOUD-12063,726679,"""Add New Workflow"" rises   ORA-01461 Exception",,eaglewang_zy,High,Closed,Done,02/Feb/2007 5:40 AM,14/Sep/2018 5:25 AM,0
+Support Request,JRACLOUD-25699,729108,Bugzilla import fails,,rburgess,High,Closed,Handled by Support,14/Sep/2011 11:31 AM,14/Sep/2018 5:11 AM,0
+Support Request,JRACLOUD-10940,767899,Add New Permission screen. Group Selector and User Custom Field does not work,,igory,High,Closed,Done,23/Aug/2006 1:10 PM,14/Sep/2018 5:00 AM,0
+Support Request,JRACLOUD-36980,728727,Not being able to create a project being a jira administrator,jraupp,adm_ti,High,Closed,Handled by Support,12/Feb/2014 8:59 PM,02/Apr/2017 10:35 AM,0
+Support Request,JRACLOUD-35298,767867,Missing project role recently added,,enid.gjoleka,High,Closed,Tracked Elsewhere,14/Oct/2013 12:47 PM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-32502,744441,userWorkstation attribute of Active Directory users not recognized on JIRA,,mcampelo,High,Closed,Handled by Support,09/Apr/2013 1:47 PM,02/Apr/2017 10:19 AM,0
+Support Request,JRACLOUD-31532,736806,Intend to Participate in the Plugins 3 Beta ,,achang2,High,Closed,Handled by Support,01/Feb/2013 3:12 AM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31359,746906,Connection reset error coming randomly from UpdateIssue,,aparna.singhal@opshub.com,High,Closed,Handled by Support,18/Jan/2013 9:06 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-30960,732347,Wrong workflowstatus after a programmatically triggered workflow-transition ,,cmk,High,Closed,Handled by Support,13/Dec/2012 11:42 AM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-30710,767685,JIRA Startup Fails Due to 'java.lang.SecurityException Unable to locate a login configuration' ,,yochaibe,High,Closed,Handled by Support,26/Nov/2012 12:31 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-29808,738121,The Gadget Directory failed to load,,clarako,High,Closed,Handled by Support,20/Sep/2012 7:10 AM,02/Apr/2017 10:09 AM,0
+Support Request,JRACLOUD-28168,728674,Running Groovy email template caused Script Listener to stop running,,bryank,High,Closed,Handled by Support,08/May/2012 4:21 AM,02/Apr/2017 10:03 AM,0
+Support Request,JRACLOUD-27747,737410,"After a while JVM starts to think that there is a file missing in the file system, but it's there. java.io.FileNotFoundException: /includes/panels/issue/linking/inward.jsp",,erko,High,Closed,Handled by Support,02/Apr/2012 7:27 AM,02/Apr/2017 10:02 AM,0
+Support Request,JRACLOUD-26564,746043,Unable to reindex,mchin,mverrall@expedia.com,High,Closed,Handled by Support,15/Dec/2011 11:22 AM,02/Apr/2017 9:58 AM,0
+Support Request,JRACLOUD-26392,729487,Confluence4 .0.5 failed to connect to a JIRA 4.4.3 server as user management directory,mchin,liyingquan@gmail.com,High,Closed,Handled by Support,28/Nov/2011 1:45 PM,02/Apr/2017 9:57 AM,0
+Support Request,JRACLOUD-26260,745614,"System Error after try to open ""Notifications"" button in Administration project panel.",mchin,anatoly,High,Closed,Handled by Support,15/Nov/2011 11:37 AM,02/Apr/2017 9:57 AM,0
+Support Request,JRACLOUD-25958,768179,Using block {html}{hml} to comment in a issue and now no new comments appears,,awilter,High,Closed,Handled by Support,13/Oct/2011 8:14 AM,02/Apr/2017 9:56 AM,0
+Support Request,JRACLOUD-25920,730187,Issues not getting reindexed properly,bdziedzic,madhavig,High,Closed,Handled by Support,11/Oct/2011 5:58 AM,02/Apr/2017 9:56 AM,0
+Support Request,JRACLOUD-22313,728960,"SSL related issue, with JIRA Gadgets",,rnayak2010,High,Closed,Handled by Support,20/Sep/2010 2:07 PM,02/Apr/2017 9:50 AM,0
+Support Request,JRACLOUD-22303,768174,updated external java script doesn't get updated after JIRA 4.x,,khyun,High,Closed,Handled by Support,17/Sep/2010 2:56 PM,02/Apr/2017 9:50 AM,0
+Support Request,JRACLOUD-36370,737696,"REST error ""The value 'XXX' does not exist for the field 'project'.""] while performing search with SQL",,ssbarnea,Medium,Closed,Support Request,06/Jan/2014 1:11 PM,09/Jun/2020 11:36 AM,0
+Support Request,JRACLOUD-33212,755240,CSV import tool mapping ignores my customfield,,loustik,Medium,Closed,Support Request,23/May/2013 4:55 PM,15/Aug/2019 5:42 AM,0
+Support Request,JRACLOUD-4904,762652,Jira Response Slow,,bharathns,Medium,Closed,Resolved Locally,11/Oct/2004 7:15 PM,15/Aug/2019 5:41 AM,0
+Support Request,JRACLOUD-5137,727379,Re-Indexing failed,,mheft,Medium,Closed,Resolved Locally,02/Nov/2004 4:24 PM,15/Aug/2019 5:41 AM,0
+Support Request,JRACLOUD-34584,771778,Pivotal Tracker import fails with NoClassDefFoundError,,tim7,Medium,Closed,Handled by Support,30/Aug/2013 5:09 PM,15/Aug/2019 5:41 AM,0
+Support Request,JRACLOUD-30130,732586,Quick Search not working on Jira on demand instance,,dashdaring,Medium,Closed,Handled by Support,16/Oct/2012 6:27 PM,15/Aug/2019 5:40 AM,1
+Support Request,JRACLOUD-12565,767828,Example CloseParentIssueFunction,nick.menere,cde,Medium,Closed,Fixed,16/Apr/2007 8:49 AM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-8948,749747,"Replace ""Specify User"" select box with username search field",,keithkml,Medium,Closed,Handled by Support,05/Jan/2006 11:23 PM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-8272,740857,Issue Navigator columns dont appear for issue-type-specific custom fields,,nickminutello,Medium,Closed,Handled by Support,19/Oct/2005 2:58 PM,15/Aug/2019 5:39 AM,1
+Support Request,JRACLOUD-36016,771707,Problem  with Russian users,,overseerhsof,Medium,Closed,Support Request,29/Nov/2013 5:24 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-35926,771703,Global transition button displayed in the wrong order,,jean-guillaume.meillaud,Medium,Closed,Support Request,22/Nov/2013 3:18 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-37335,771695,Created <= date is not coming back with the issues created on that date,,sprasad,Medium,Closed,Support Request,04/Mar/2014 7:28 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-38233,771615,Comments Left on Issues that Never Make it to JIRA,,ccabello,Medium,Closed,Answered,08/May/2014 4:34 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-38215,771550,Error java.lang.NoClassDefFoundError: Could not initialize class com.sun.xml.internal.ws.api.streaming.XMLStreamReaderFactory,,manjunath.kanakagiri1,Medium,Closed,Answered,08/May/2014 3:40 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-36401,770599,Dashboard gadgets fail to render after upgrading from 5.2.5 to 6.2 (m03),,matt.hass,Medium,Closed,Support Request,07/Jan/2014 4:05 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-38314,768532,Cannot access ondemand instance.,,lalit1,Medium,Closed,Support Request,14/May/2014 6:02 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37841,768358,When pressing ESC key when creating a new issue the issue dialog is closed without any notifications,,ron13,Medium,Closed,Support Request,08/Apr/2014 3:24 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-32578,768213,popup of sub-tasks on classic taskboard (in not logged in state) do not have any option to close,,petepar2,Medium,Closed,Handled by Support,14/Apr/2013 11:41 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-34368,767912,text search with negation,,lena.fedoseeva,Medium,Closed,Fixed,19/Aug/2013 12:24 PM,15/Aug/2019 5:38 AM,1
+Support Request,JRACLOUD-36465,762684,When upgrading jira from 3.13.5 to 4.4.5 error occurred when parsing your installation dir,,tony.stone1,Medium,Closed,Support Request,10/Jan/2014 9:25 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-35694,762683,Cannot transition an issue,,gntc43,Medium,Closed,Support Request,07/Nov/2013 6:58 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-32709,726811,Jira Project Issue Sequence Number is Incorrect,,garcias,Medium,Closed,Handled by Support,22/Apr/2013 2:30 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37194,767074,Action menu gets corrupted on issue refresh,,bob.swift@charter.net,Medium,Closed,Answered,26/Feb/2014 4:23 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-38088,771630,"Want to remove ""Gliffy"" from the drop down menu under the ""more"" tab",,merryn1,Medium,Closed,Support Request,29/Apr/2014 6:13 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-42029,754945,Filtering resolution != Duplicate Filteres out all unresolved issues,,krystina.subieta,Medium,Closed,Answered,11/Feb/2015 10:00 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-28988,761454,Optional-mandatory fields problem when bulk move,,vitek.urban,Medium,Closed,Handled by Support,18/Jul/2012 11:29 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-36092,751359,Email setup not working with Office 365,,hayriye.yagbasan,Medium,Closed,Support Request,05/Dec/2013 8:47 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-37966,747553,Feedback page goes blank upon clicking Submit button,,07843bc1-6c8b-4cbe-8068-bb7fbb3efb42,Medium,Closed,Support Request,21/Apr/2014 4:13 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-35900,747424,Licence  Problems with Atlassian products ,,dirk.kias,Medium,Closed,Support Request,21/Nov/2013 8:12 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38248,747359,Incoming email from Outlook,,hugpre5,Medium,Closed,Support Request,09/May/2014 4:41 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-37280,747396,Export to Excel Does not show some columns from my current view,,jimt,Medium,Closed,Support Request,28/Feb/2014 8:45 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-37530,747221,Jira API error.,,forpdfsending,Medium,Closed,Answered,18/Mar/2014 2:37 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38354,746867,Scrolling Issue,,tyler.adolph,Medium,Closed,Support Request,15/May/2014 5:25 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32582,746842,"Editing the filter ""unresolved by status, unresolved by assignee, unresolved by issue type...",,marcel.kleinluetke,Medium,Closed,Handled by Support,09/Apr/2013 9:02 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37785,745757,Users not able to open a new Jira Ticket after upgrade to 6.1.7,,william.causey,Medium,Closed,Support Request,03/Apr/2014 10:43 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32845,745684,Attachment can duplicate in drag and drop ,,dsimon,Medium,Closed,Handled by Support,10/Dec/2012 12:34 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37597,745227,JIRA 'Introduction' can be viewed by users lacking permission and by anonymous,,tom.godar,Medium,Closed,Support Request,21/Mar/2014 7:37 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-38316,746606,JIRA to JIRA Issue Copy doesn't work with JIRA 6.2 - Marketplace,,ssbarnea,Medium,Closed,Support Request,14/May/2014 11:25 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-28964,746603,Undelivered Mail Returned to Sender,,lucian0,Medium,Closed,Handled by Support,16/Jul/2012 9:07 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36182,743931,Workflow Does Not Transition Resolution ,,nsinas,Medium,Closed,Resolved Locally,12/Dec/2013 3:45 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36245,743927,Activity Stream Error,,girishk.shenoy,Medium,Closed,Support Request,18/Dec/2013 5:17 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-29150,746500,Since upgrade to Jira 5.0 workflow changed,,knowlesrd,Medium,Closed,Fixed,30/Jul/2012 12:34 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36053,743701,Unable to create custom workflow Status,,jawad.habib,Medium,Closed,Support Request,03/Dec/2013 6:25 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35819,743548,Microsoft LDAP restrict filters to specific groups,,anand.unadkat,Medium,Closed,Support Request,15/Nov/2013 12:11 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-38220,743571,JIRA Agile menu option missing from main navigation,,gareth1,Medium,Closed,Answered,08/May/2014 4:43 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35739,743395,"When adding a new task in Scrum, Summary is missing",,rod3,Medium,Closed,Support Request,08/Nov/2013 8:06 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35550,743159,Reduce notification sent by Jira,,ehoungues,Medium,Closed,Support Request,29/Oct/2013 10:01 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-40290,743069,We can not attach screenshot to existing bug.,,rupeshsurve25,Medium,Closed,Support Request,03/Oct/2014 8:37 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-8779,742774,Moving an issue from one project to another doesn´t move the attachments,,rdpaola,Medium,Closed,Handled by Support,12/Dec/2005 2:02 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32701,742001,Unable to move my bugs description or comments from bugzilla to JIRA.,,shivendra,Medium,Closed,Handled by Support,19/Apr/2013 9:14 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37352,749718,Why CreateIssueDetails!init.jspa ( Create an issue From a URL) The form is automatically submitted?,,yassine.mansour,Medium,Closed,Support Request,05/Mar/2014 3:09 PM,15/Aug/2019 5:36 AM,1
+Support Request,JRACLOUD-29453,740846,Excel Export from Issue Navigator produces corrupt Excel files,,schou@barracuda.com,Medium,Closed,Fixed,22/Aug/2012 9:06 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-31785,740676,Cloning alters workflow,,richard.plackowski,Medium,Closed,Fixed,20/Feb/2013 4:20 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-31421,725472,Date Picker has not the same conversion in Java and Javascript,,v_thoule,Medium,Closed,Duplicate,24/Jan/2013 8:05 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-29279,739571,Undesired automatic group membership,,frable,Medium,Closed,Answered,09/Aug/2012 1:15 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37200,771739,Embedding JIRA the login code in Joomla ,,muhammad.ali,Medium,Closed,Support Request,26/Feb/2014 10:07 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-38247,742861,JIRA Stash integration not working.,,cathy1,Medium,Closed,Support Request,09/May/2014 1:41 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35761,756287,Error message: <The JIRA server could not be contacted. This may be a temporary glitch or the server may be down.>,,didier.riedinger1,Medium,Closed,Support Request,12/Nov/2013 9:37 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-27104,736665,NoClassDefFoundError exceptions recorded in logs,,lukasz.smoron@navteq.com,Medium,Closed,Answered,13/Feb/2012 4:34 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-59799,763885,Not receive issue notifications,,kdiaz1631758748,Medium,Closed,Support Request,12/Feb/2016 8:44 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-30235,733727,Moving issues between projects throws system error,,vinhngu@tollgroup.com,Medium,Closed,Handled by Support,24/Oct/2012 5:28 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35057,735075,Bulk operation give error message,,morten.gunvaldsen,Medium,Closed,Support Request,27/Sep/2013 8:23 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37207,771685,problem with message custom fields,,birgit.greiffenberg,Medium,Closed,Support Request,26/Feb/2014 5:24 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-40814,734335,Bad request on creating Issue with Assignee or Reporter or DueDate,,oppa.kostya.bko,Medium,Closed,Answered,12/Nov/2014 4:56 PM,15/Aug/2019 5:35 AM,1
+Support Request,JRACLOUD-35606,771670,unable to change context path,,m.mueller,Medium,Closed,Support Request,31/Oct/2013 8:16 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-32782,737481,Add attachments using REST with non ASCII characters,,ralfb,Medium,Closed,Handled by Support,25/Apr/2013 4:41 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-35070,737827,Jira startup failing,,esdeby,Medium,Closed,Support Request,29/Sep/2013 6:18 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36707,768538,Not acess web page JIRA,,ls.pereira,Medium,Closed,Support Request,24/Jan/2014 11:51 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-35069,730509,redirect to oracle page when adding an screenshot,,eduard.frades,Medium,Closed,Support Request,29/Sep/2013 5:58 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36476,730505,OnDemand unbearably slow,,sh2,Medium,Closed,Support Request,13/Jan/2014 11:01 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36260,727646,Developers unable to add Watchers in Jira6 SAAS version,,arvind3,Medium,Closed,Support Request,17/Dec/2013 9:27 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37439,727172,Add Confluence gadget to the directory,,manish4,Medium,Closed,Support Request,11/Mar/2014 11:09 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36909,727309,Can't edit workflow because admin rights expire in seconds,,david.weiss1,Medium,Closed,Support Request,07/Feb/2014 7:27 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36957,726457,Notification Scheme not Working,,john.brandeis,Medium,Closed,Support Request,11/Feb/2014 9:33 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-40851,770916,Cannot delete comment,,nickshanks,Medium,Closed,Support Request,12/Nov/2014 2:03 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38236,729655,Classic Agile Gadget not working?,,devops4,Medium,Closed,Support Request,08/May/2014 10:13 PM,15/Aug/2019 5:34 AM,1
+Support Request,JRACLOUD-32559,729614,Time Since Chart internal server error ,,wendy.yi,Medium,Closed,Handled by Support,12/Apr/2013 3:56 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36341,726718,when export to excel(current fields) without filter's column,,y_shliao,Medium,Closed,Support Request,02/Jan/2014 7:27 AM,15/Aug/2019 5:34 AM,1
+Support Request,JRACLOUD-8200,767992,"Search/ filter for ""not empty"" (custom) fields",,goca,Medium,Closed,Handled by Support,11/Oct/2005 1:06 PM,15/Aug/2019 5:33 AM,8
+Support Request,JRACLOUD-32621,767665,Assignee arbitrarily unset when issue closed,,buchanans,Medium,Closed,Handled by Support,16/Apr/2013 3:44 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32800,767625,AppLink to Confluence doesn't work,,stefan.kohler,Medium,Closed,Handled by Support,26/Apr/2013 9:57 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35876,748028,Reassigning issues works but window won't close,,jason.opitz,Medium,Closed,Support Request,19/Nov/2013 5:16 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-43088,768421,Webhook doesn't respect -Dhttp.nonProxyHosts,,teetzenm,Medium,Closed,Handled by Support,27/Apr/2015 10:28 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36866,727191,Cannot set Resolution field to Unresolved in Workflow Post Function,,kessler,Medium,Closed,Support Request,05/Feb/2014 4:43 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36764,726903,Safety in Projects,,luis.segura,Medium,Closed,Answered,29/Jan/2014 2:19 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-30191,726822,"On updating something in any issue, system disappears the 'Drag and Drop' zone.",,vikrant.kumar,Medium,Closed,Handled by Support,19/Oct/2012 7:27 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36777,726669,Assignee filter not working on issues page,,rstewart1,Medium,Closed,Support Request,21/Jan/2014 4:05 PM,15/Aug/2019 5:33 AM,1
+Support Request,JRACLOUD-36312,726133,global permission,,nadiah.mohammad,Medium,Closed,Support Request,26/Dec/2013 4:20 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36541,726031,jira crowd incremental syncronization does not remove groups removed from crowd,,ssbarnea,Medium,Closed,Support Request,15/Jan/2014 12:26 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37293,726002,NullPointerException when searching for issues,,erik.vanherck,Medium,Closed,Support Request,03/Mar/2014 7:58 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36225,770672,Clicking on the button 'Resolve issue' and then clicking on link 'Assign to me' from the resolve issue pop up does not actually assigns the issue to me,,omvhirve,Medium,Closed,Support Request,17/Dec/2013 1:45 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35063,770609,JIRA became broken after ZIP file attachment,,sbarieva,Medium,Closed,Support Request,27/Sep/2013 1:59 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32589,727222,Description text in custom-made fields do not update on field screens when modified.,,jason.tani,Medium,Closed,Handled by Support,12/Apr/2013 3:53 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-42240,727215,"Severe selection bug for ""created"" date",,peter.vonhofer@countandcare.de,Medium,Closed,Answered,27/Feb/2015 10:28 AM,15/Aug/2019 5:33 AM,3
+Support Request,JRACLOUD-10648,727177,custom icons no longer appear in HTML email notifications.,,mr jira feedback,Medium,Closed,Answered,20/Jul/2006 9:21 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-30021,767184,Notifications are not sent to issue reporter,,jjaniszewski,Medium,Closed,Handled by Support,09/Oct/2012 12:16 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-36626,726653,Discrepancy between watcher count on issue navigator compared to issue,,bob.swift@charter.net,Medium,Closed,Support Request,21/Jan/2014 4:34 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-37997,747998,Anonymous users cannot add attachments to issues,,tonis.ostrat,Medium,Closed,Support Request,23/Apr/2014 9:58 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-60574,726362,Is there a way to set the permissions that way that project user can only see project users to manage the watchers?,,christoph.oberer2127418321,Medium,Closed,Obsolete,26/Mar/2016 7:13 PM,11/Aug/2019 5:03 PM,0
+Support Request,JRACLOUD-30020,729709,"""user doesn't exist"" error when trying to remove user from the project ""developers"" list",,pavel.tarasenko,Medium,Closed,Handled by Support,09/Oct/2012 10:03 AM,19/Sep/2018 4:57 AM,0
+Support Request,JRACLOUD-29790,767843,label list incomplete,,nicole wieser,Medium,Closed,Handled by Support,19/Sep/2012 8:10 AM,19/Sep/2018 4:39 AM,0
+Support Request,JRACLOUD-27589,745583,'Resolution' field not saved properly when resolving an issue,,lausnet,Medium,Closed,Handled by Support,21/Mar/2012 5:17 AM,19/Sep/2018 4:37 AM,0
+Support Request,JRACLOUD-26883,729606,The reporter keeps changing when I move issues between projects,,tominwood,Medium,Closed,Not a bug,23/Jan/2012 12:02 PM,19/Sep/2018 4:37 AM,0
+Support Request,JRACLOUD-29974,736319,"Workflow error when ""Stop Progress"" - Tried to update an entity that does not exist",,rbrown@touchcommerce.com,Medium,Closed,Handled by Support,03/Oct/2012 11:06 PM,14/Sep/2018 5:26 AM,0
+Support Request,JRACLOUD-27910,735418,Can't access workflow administration screen of a project,,gja,Medium,Closed,Done,18/Apr/2012 8:19 AM,14/Sep/2018 5:26 AM,0
+Support Request,JRACLOUD-35168,738083,Items stuck in workflows,,john.williamson,Medium,Closed,Done,04/Oct/2013 10:54 AM,14/Sep/2018 5:25 AM,0
+Support Request,JRACLOUD-27678,767700,Project Import Tool always throws NPE,,jsirex@gmail.com,Medium,Closed,Handled by Support,27/Mar/2012 2:36 PM,14/Sep/2018 5:11 AM,0
+Support Request,JRACLOUD-30464,735440,"Changes in custom field descriptions do not appear in the ""Create Issue"" screen",,achilles,Medium,Closed,Done,08/Nov/2012 4:21 PM,14/Sep/2018 5:00 AM,0
+Support Request,JRACLOUD-37761,742308,Adding issue link selecting multiple issues,,meenakshi.hardikar,Medium,Closed,Handled by Support,26/Mar/2014 9:06 AM,14/Sep/2018 4:42 AM,0
+Support Request,JRACLOUD-31278,767637,Jelly script run as a service - questions,,cwagner,Medium,Closed,Handled by Support,14/Jan/2013 9:12 AM,11/Sep/2018 5:00 AM,0
+Support Request,JRACLOUD-9356,739990,"Disappointment about ""component leads""",,evan.leonard,Medium,Closed,Done,14/Feb/2006 6:36 PM,11/Sep/2018 4:46 AM,0
+Support Request,JRACLOUD-27716,725632,Forbidden - You don't have permission to access /secure/views/bulkedit/BulkEdit1.jspa,,jsevidal,Medium,Closed,Handled by Support,29/Mar/2012 7:33 PM,11/Sep/2018 3:58 AM,0
+Support Request,JRACLOUD-27016,727322,Update Windows version on jira server,,memphis1984,Medium,Closed,Fixed,02/Feb/2012 10:55 AM,11/Sep/2018 2:05 AM,0
+Support Request,JRACLOUD-29561,737942,MailFetcherService does not decode E-Mail subject properly,,andreas.bruckmeier,Medium,Closed,Handled by Support,31/Aug/2012 10:12 AM,11/Sep/2018 2:05 AM,0
+Support Request,JRACLOUD-32459,736984,Fix version/s on Agile cards,,ulrika.eriksson@hm.com,Medium,Closed,Handled by Support,05/Apr/2013 12:49 PM,10/Sep/2018 6:06 AM,0
+Support Request,JRACLOUD-29963,767824,Can not upgrade plugins,,krzysztof.stasiak,Medium,Closed,Handled by Support,03/Oct/2012 10:25 AM,10/Sep/2018 6:06 AM,0
+Support Request,JRACLOUD-30458,726727,Internal server error while requesting issue via REST-API,,steffen123,Medium,Closed,Handled by Support,08/Nov/2012 10:40 AM,10/Sep/2018 6:02 AM,0
+Support Request,JRACLOUD-26738,767823,Failed to login trusted application: jira,bdziedzic,romio5305,Medium,Closed,Handled by Support,09/Jan/2012 7:06 AM,10/Sep/2018 6:02 AM,0
+Support Request,JRACLOUD-29442,768052,Time tracking values reported through the API are not correct,,jmatheson,Medium,Closed,Handled by Support,22/Aug/2012 5:40 AM,10/Sep/2018 6:00 AM,0
+Support Request,JRACLOUD-32500,729352,JIRA 5.07 textfields in response XML,,martin.lindner,Medium,Closed,Handled by Support,09/Apr/2013 10:59 AM,02/Apr/2017 10:19 AM,0
+Support Request,JRACLOUD-32228,767628,service proxy has been destroyed,,sohil.chhabriya,Medium,Closed,Handled by Support,21/Mar/2013 7:00 AM,02/Apr/2017 10:18 AM,0
+Support Request,JRACLOUD-32209,767607,I want to send an email when an issue of a particular type is created,,peacock_david@emc.com,Medium,Closed,Handled by Support,20/Mar/2013 9:52 AM,02/Apr/2017 10:18 AM,1
+Support Request,JRACLOUD-32140,738363,Jira cannot complete index operation after install GreenHopper 6.1.4.2,,uiliam.veloso,Medium,Closed,Handled by Support,15/Mar/2013 7:38 PM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-31839,726059,Find Issue - using same form,,karel.skokan,Medium,Closed,Handled by Support,25/Feb/2013 4:24 PM,02/Apr/2017 10:16 AM,0
+Support Request,JRACLOUD-31721,746962,Fail to Create Application Link b/w Jira OnDemand and Confluence hosted,,pbojkov,Medium,Closed,Handled by Support,15/Feb/2013 3:43 PM,02/Apr/2017 10:16 AM,0
+Support Request,JRACLOUD-31481,738572,Lost Fields,,landresg,Medium,Closed,Handled by Support,29/Jan/2013 3:43 PM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31399,729458,ScreenshotApplet class missing from .war build from source,,geoffmetselaar,Medium,Closed,Handled by Support,22/Jan/2013 11:27 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31170,767968,user email disappears,,pierre-olivier.sicamois@lagardere-active.com,Medium,Closed,Handled by Support,07/Jan/2013 6:38 PM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-30889,734346,Summary mapping not recognized on External System Import,,ccfairtrade,Medium,Closed,Handled by Support,07/Dec/2012 8:28 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30847,729233,JIRA can't Create issues from IMAP Exchange 2010 mailbox,,sergey.p,Medium,Closed,Handled by Support,05/Dec/2012 5:48 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30733,767708,Cannot start JIRA (32bit) after upgrading from 5.1.7 -> 5.2.1 (both 32bit) on 64bit Windows7 with 64bit Java,,mateusz.szulc,Medium,Closed,Handled by Support,28/Nov/2012 10:54 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30732,728148,I can not access the admin screen after disabling some plugins,,julietttte,Medium,Closed,Handled by Support,28/Nov/2012 10:51 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30641,767686,Error while attaching textual file to issue report,,rockymm,Medium,Closed,Handled by Support,20/Nov/2012 4:24 PM,02/Apr/2017 10:11 AM,0
+Support Request,JRACLOUD-30625,743996,Upgrade Jira 4.2 to 5.2 - admin can not login,,davidfman,Medium,Closed,Handled by Support,19/Nov/2012 7:42 PM,02/Apr/2017 10:11 AM,0
+Support Request,JRACLOUD-30549,729419,Project dropdowns are not working correctly across browsers,,tastle,Medium,Closed,Handled by Support,14/Nov/2012 7:04 PM,02/Apr/2017 10:11 AM,1
+Support Request,JRACLOUD-29917,746873,problem issue id ,,nkumar1095,Medium,Closed,Handled by Support,29/Sep/2012 11:12 AM,02/Apr/2017 10:09 AM,0
+Support Request,JRACLOUD-29780,726948,Missing Clone Issue Action,,pepe_42,Medium,Closed,Handled by Support,18/Sep/2012 1:58 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29665,726912,Unable to create Issue collector,,debbieshoe,Medium,Closed,Handled by Support,10/Sep/2012 9:17 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29565,732611,"User can't be found in the 'assign user' drop down, but he is active and can self-assign issues",,erik.vannorstrand,Medium,Closed,Handled by Support,31/Aug/2012 4:10 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29547,726475,every change in issue makes me a watcher,,oriol,Medium,Closed,Handled by Support,30/Aug/2012 9:27 AM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29525,744997,Error during adding filter to favourites.,,dthakkar,Medium,Closed,Handled by Support,28/Aug/2012 1:07 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-27511,725391,Mention functionality does not work with Google Chrome and Safari,,mlu,Medium,Closed,Handled by Support,14/Mar/2012 7:50 AM,02/Apr/2017 10:01 AM,0
+Support Request,JRACLOUD-27363,725228,Cannot execute transition,,rumceisz,Medium,Closed,Handled by Support,02/Mar/2012 10:27 AM,02/Apr/2017 10:00 AM,0
+Support Request,JRACLOUD-27336,737066,Became a different user on page refresh after operation,,dcbyron,Medium,Closed,Handled by Support,29/Feb/2012 4:01 PM,02/Apr/2017 10:00 AM,0
+Support Request,JRACLOUD-27294,742951,Wrong language at the Share button,,jbormueller,Medium,Closed,Handled by Support,27/Feb/2012 8:40 AM,02/Apr/2017 10:00 AM,2
+Support Request,JRACLOUD-27057,767706,Backup/restore does not work,,animesh.singh@acertis.com,Medium,Closed,Handled by Support,08/Feb/2012 1:10 PM,02/Apr/2017 9:59 AM,0
+Support Request,JRACLOUD-26922,735051,Office 2007 documents - attachment by email doesn't work,,vincent_externis,Medium,Closed,Handled by Support,26/Jan/2012 4:39 PM,02/Apr/2017 9:59 AM,0
+Support Request,JRACLOUD-26864,746370,Creacion de un usuario JIRA,bdziedzic,fkonja,Medium,Closed,Handled by Support,19/Jan/2012 9:17 PM,02/Apr/2017 9:59 AM,0
+Support Request,JRACLOUD-26702,746136,Emails deleted in mailbox when become a ticket in Jira,bdziedzic,vincent_externis,Medium,Closed,Handled by Support,03/Jan/2012 5:22 PM,02/Apr/2017 9:58 AM,0
+Support Request,JRACLOUD-26569,744884,Cannot import from one Jira instance to another,mchin,mverrall@expedia.com,Medium,Closed,Handled by Support,15/Dec/2011 3:00 PM,02/Apr/2017 9:58 AM,0
+Support Request,JRACLOUD-26568,728096,Jira always fails to move issue in Chrome and Firefox,mchin,xumix,Medium,Closed,Handled by Support,15/Dec/2011 3:00 PM,02/Apr/2017 9:58 AM,0
+Support Request,JRACLOUD-26341,746691,"work log error - ""An unknown error occurred - actions == null. Please see logs for more details."" ",mchin,vanhyftee,Medium,Closed,Handled by Support,21/Nov/2011 12:26 PM,02/Apr/2017 9:57 AM,0
+Support Request,JRACLOUD-26126,745003,Incorrect time in created issues and in comments after 28 October 2011 in Russia,bdziedzic,wr224,Medium,Closed,Handled by Support,02/Nov/2011 6:20 AM,02/Apr/2017 9:56 AM,0
+Support Request,JRACLOUD-26020,730218,"Test email is sent OK, whereas the regular emails are getting bounced from google mail",,vak,Medium,Closed,Handled by Support,20/Oct/2011 8:27 AM,02/Apr/2017 9:56 AM,0
+Support Request,JRACLOUD-8841,763738,How to rotate Tomcat's catalina.out,,glahitette,Medium,Closed,Support Request,19/Dec/2005 10:56 AM,02/Apr/2017 9:38 AM,0
+Support Request,JRACLOUD-36886,727251,Captcha problem with Jira API,,vitkrv,Low,Closed,Answered,06/Feb/2014 2:41 PM,29/Jul/2020 4:53 PM,0
+Support Request,JRACLOUD-34030,751619,Valid URL is rejected as a JIRA Web Link,,jack.kelleher,Low,Closed,Answered,24/Jul/2013 2:14 PM,15/Aug/2019 5:43 AM,1
+Support Request,JRACLOUD-41322,770870,History tab showing wrong user for create event,,bjorn.gullander,Low,Closed,Support Request,19/Dec/2014 10:16 AM,15/Aug/2019 5:42 AM,1
+Support Request,JRACLOUD-31786,771772,Adding Comments Hang,,jared.campbell,Low,Closed,Tracked Elsewhere,20/Feb/2013 9:09 PM,15/Aug/2019 5:42 AM,1
+Support Request,JRACLOUD-37898,768362,Problem in the issue link,,meenakshi.hardikar,Low,Closed,Handled by Support,14/Apr/2014 4:32 PM,15/Aug/2019 5:42 AM,0
+Support Request,JRACLOUD-36023,740550,Attaching screenshot throws ClassNotFoundException com.atlassian.jira.screenshot.applet.ScreenshotApplet.class,,dricard,Low,Closed,Support Request,29/Nov/2013 2:00 PM,15/Aug/2019 5:42 AM,1
+Support Request,JRACLOUD-35723,743394,Have to upload image twice to see it in attachments,,iainelder,Low,Closed,Support Request,08/Nov/2013 12:57 PM,15/Aug/2019 5:42 AM,0
+Support Request,JRACLOUD-35709,743378,JIRA link to Confluence Page are broken / blank Site,,benjamin.dombrowsky,Low,Closed,Support Request,07/Nov/2013 9:12 PM,15/Aug/2019 5:42 AM,0
+Support Request,JRACLOUD-38098,725703,JIRA SSO authenticator class does not copy users on login,,spocksbeard,Low,Closed,Handled by Support,30/Apr/2014 11:03 AM,15/Aug/2019 5:42 AM,0
+Support Request,JRACLOUD-37879,761464,"When setting certain fields to display on the issue-view screen, ""story points"" does not persist",,tim.arthur,Low,Closed,Handled by Support,11/Apr/2014 11:20 AM,15/Aug/2019 5:42 AM,0
+Support Request,JRACLOUD-33565,737248,Sprint 'View in Issue Navigator' doesn't work anymore: Unable to find JQL function 'inSprint',,abordonos,Low,Closed,Support Request,19/Jun/2013 10:32 AM,15/Aug/2019 5:41 AM,0
+Support Request,JRACLOUD-39223,768378,Changes to a copied workflow impact the original workflow,,mstublefield,Low,Closed,Support Request,22/Jul/2014 2:02 PM,15/Aug/2019 5:41 AM,1
+Support Request,JRACLOUD-37061,771700,"The workflow shown to users does show the ""linked status"" name instead of the configured ""step name""",,markus.vogel,Low,Closed,Answered,18/Feb/2014 8:07 AM,15/Aug/2019 5:41 AM,0
+Support Request,JRACLOUD-40351,753178,Entering another user id as reporter when creating an issue shows that user created it,,vbrimmer,Low,Closed,Support Request,08/Oct/2014 4:24 PM,15/Aug/2019 5:41 AM,0
+Support Request,JRACLOUD-37791,770800,"""Communications Breakdown"" error message shown when pasting control characters into a new comment",,atlassiansupport1,Low,Closed,Support Request,04/Apr/2014 12:06 PM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-30163,729357,Issue Navigator - Tools drop down menu not shown properly in IE 8,,schramch,Low,Closed,Handled by Support,18/Oct/2012 6:24 AM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-36841,768341,Issues created with the Issue Service cannot be opened,,plante.frederick,Low,Closed,Resolved Locally,04/Feb/2014 2:56 PM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-43183,770893,'Security Level' field hidden even when set to 'shown' on field configurations,,amosharper,Low,Closed,Support Request,30/Apr/2015 10:27 AM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-39763,768382,NPE when initializing cache-api cache with replicateAsynchronously() setting,,sereda,Low,Closed,Answered,31/Aug/2014 9:05 PM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-39773,768385,releaseVersion vs. setReleased(),,wolfy2k,Low,Closed,Answered,01/Sep/2014 11:34 AM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-30302,726238,"""java.lang.NoClassDefFoundError: com/opensymphony/user/User"" appears in log file",,aboumediene,Low,Closed,Handled by Support,30/Oct/2012 8:44 AM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-36716,767856,worklog expand not working for REST search API,,nurquiza,Low,Closed,Answered,24/Jan/2014 5:39 PM,15/Aug/2019 5:40 AM,8
+Support Request,JRACLOUD-34905,728526,AOD JIRA - How do we change column order for filter results,,djchan,Low,Closed,Support Request,18/Sep/2013 6:31 PM,15/Aug/2019 5:40 AM,0
+Support Request,JRACLOUD-34989,767839,Changing an issue's status while using a filter displays empty page,,neil6,Low,Closed,Support Request,24/Sep/2013 5:15 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-34999,768321,send mail from JIRA,,ext.nmj_services.lucie.nguyen,Low,Closed,Support Request,25/Sep/2013 7:16 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-56087,771911,Migrating data from cloud JIRA 7.1.0 to standalone JIRA 7.0.4 then Agile features missing,,venumadhavr2044051484,Low,Closed,Support Request,14/Dec/2015 7:49 AM,15/Aug/2019 5:39 AM,1
+Support Request,JRACLOUD-34831,771839,JIRA Full backup to XML - ZIP 4GB limitation.,,fd3c0ead-e422-4fdf-b0f3-3a8ec4fdd832,Low,Closed,Support Request,16/Sep/2013 12:04 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-36952,771760,Cannot attach files to issues/tickets,,achaux,Low,Closed,Support Request,11/Feb/2014 6:12 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-37283,771713,"Since JIRA 5.x, get a permissions violation when creating a project",,kmullen,Low,Closed,Support Request,28/Feb/2014 11:14 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-37169,771712,LDAP Groups doesn't synchronising properly,,egor.molostov,Low,Closed,Support Request,24/Feb/2014 6:22 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-36041,771699,Mail handler Special encoding filename attachment problem,,neumonitoring,Low,Closed,Support Request,03/Dec/2013 7:47 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-36844,771697,Unable to delete Application Link,,tj5,Low,Closed,Support Request,04/Feb/2014 5:29 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-35991,771657,Uploading Images In Chrome,,fridrik1,Low,Closed,Support Request,27/Nov/2013 11:49 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-37584,771582,Bitbucket Integration,,tylerscottslater,Low,Closed,Support Request,21/Mar/2014 5:18 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-38299,771573,New screenshot applet throws exception if no image is defined,,mathias1,Low,Closed,Support Request,13/May/2014 10:14 AM,15/Aug/2019 5:39 AM,1
+Support Request,JRACLOUD-37929,771601,Table 'jira.pluginstate' doesn't exist,,iordannalbantov,Low,Closed,Support Request,16/Apr/2014 9:04 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-41173,771486,Issue setting a default description based on Custom Field (Select List),,brian.draper,Low,Closed,Answered,08/Dec/2014 10:51 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-37903,771552,Creating a new application link uses localhost instead of provided url,,justin.maiuto,Low,Closed,Support Request,15/Apr/2014 2:14 AM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-38124,771562,JIRA Startup Failed - Invalid object name 'jira.pluginstate',,jamx,Low,Closed,Support Request,02/May/2014 2:15 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-37779,771561,Error when uploading attachment from CIFS Share,,grl2007,Low,Closed,Support Request,03/Apr/2014 6:41 PM,15/Aug/2019 5:39 AM,0
+Support Request,JRACLOUD-38063,771191,auto assignee problem,,gabrielley,Low,Closed,Support Request,28/Apr/2014 6:45 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37053,770586,JIRA filter subscriptions - only notify with NEW issues,,jkatz,Low,Closed,Answered,17/Feb/2014 8:34 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-20516,770455,selecting User Is In Group Custom Field during Workflow Add Condition doesn't show User group fields,,pmanildi,Low,Closed,Obsolete,24/Feb/2010 8:04 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36101,770543,attachment thumbnail not displayed after upgrading from 3.12.2 to 6.1.4,,hirota.takayuki,Low,Closed,Resolved Locally,06/Dec/2013 9:25 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36240,768541,I can not view Dashboards on my installation,,mylesyamada,Low,Closed,Support Request,18/Dec/2013 7:46 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37271,768539,Unable to load com.atlassian.auiplugin:aui-experimental-table-sortable,,a.geldt,Low,Closed,Answered,28/Feb/2014 3:40 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37726,768531,Cannot use Attach a Screenshot functionality,,michael.kort,Low,Closed,Duplicate,31/Mar/2014 12:34 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37698,768530,system fields greyed out in search screen,,gecon27,Low,Closed,Support Request,28/Mar/2014 1:01 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36773,768330,CPU pegged processes stuck in HashMap in getCustomFieldValue(),,davidrr,Low,Closed,Support Request,30/Jan/2014 12:26 AM,15/Aug/2019 5:38 AM,1
+Support Request,JRACLOUD-36162,768327,jira-sal-plugin-6.1.5_1386046614000.jar broken on unix x64,,tharneit,Low,Closed,Support Request,11/Dec/2013 9:53 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-32615,768326,Kick-ass search not so kick-ass,,petru.dumuta,Low,Closed,Handled by Support,16/Apr/2013 9:54 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-33021,768324,Mention is Not Working in JIRA,,randy.zhu,Low,Closed,Support Request,10/May/2013 5:06 PM,15/Aug/2019 5:38 AM,1
+Support Request,JRACLOUD-37077,768212,Attach a Screenshot feature completely broken,,andy35,Low,Closed,Answered,18/Feb/2014 9:24 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-30086,767913,Preview and restricting viewability not possible when editing a comment,,seal,Low,Closed,Handled by Support,12/Oct/2012 9:56 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-59708,767903,Jira is not showing tickets or filters,,guillermo.gallardo1466821995,Low,Closed,Support Request,08/Feb/2016 1:25 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37231,767350,Infinite comment notification loop when email delivery fails,,david.weiss1,Low,Closed,Support Request,27/Feb/2014 3:46 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-31748,767070,jira <--> bamboo link errors,,,Low,Closed,Handled by Support,18/Feb/2013 5:25 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-40019,762241,Need Help ? Icon for Custom Fields,,vlt771,Low,Closed,Answered,17/Sep/2014 5:11 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37855,761390,"When setting certain fields to display on the issue-view screen, ""story points"" does not persist",,tim.arthur,Low,Closed,Support Request,09/Apr/2014 4:23 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-31669,761019,Cannot attach file X: No project could be found with id Y,,soeren.kornetzki.delti.com,Low,Closed,Handled by Support,13/Feb/2013 9:43 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-34990,762571,Jira 6.1 does not use JIRA_HOME environment variable,,computer guru,Low,Closed,Support Request,24/Sep/2013 8:28 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37411,747581,Jira Upgrade,,btasar,Low,Closed,Support Request,10/Mar/2014 3:22 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-35687,740415,All rows of pkey in jiraissue table are NULL,,j.chung,Low,Closed,Support Request,06/Nov/2013 8:36 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-34259,726198,JIRA stopped sending mails.,,,Low,Closed,Support Request,12/Aug/2013 5:05 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-32769,762420,plugin manager missed an outdated plugin,,gregoryb,Low,Closed,Handled by Support,25/Apr/2013 9:37 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37953,726256,"""Show more"" button sometimes disappears in the Activity Stream gadget",,kevin.lener,Low,Closed,Support Request,18/Apr/2014 1:43 PM,15/Aug/2019 5:38 AM,2
+Support Request,JRACLOUD-59011,773374,User filter not avaliable for some users,,marc515875786,Low,Closed,Resolved Locally,15/Dec/2015 11:18 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-38459,772971,Disabled Add-ons re-enabling automatically,,isaac.retallick,Low,Closed,Support Request,23/May/2014 12:58 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-45179,771332,Cannot get deleted comment id from JIRA's IssueEvent with type ISSUE_COMMENT_DELETED_ID,,ligangty1,Low,Closed,Answered,02/Sep/2015 5:58 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-45234,771020,Unable to update base url,,mark318,Low,Closed,Support Request,07/Sep/2015 12:38 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37420,770844,confluence page link - Request url doesn't match rpc url configured,,rstoll1,Low,Closed,Support Request,11/Mar/2014 3:10 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-38140,770812,Cannot Add Transition from Closed to Open,,mnieminen,Low,Closed,Support Request,05/May/2014 4:37 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36992,770606,Communications Breakdown error when trying to Close/Reopen several issues,,pawel.miczko,Low,Closed,Support Request,13/Feb/2014 10:17 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36523,770591,Status field's value missing in JIRA v6.1.5#6160-sha1:a61a0fc,,buildmonkey,Low,Closed,Support Request,15/Jan/2014 4:22 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36808,770562,Jira is down for us: https://movingworlds.atlassian.net/browse/MWO,,mark63,Low,Closed,Support Request,01/Feb/2014 2:01 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-35120,770538,after adding active directory as a directory source we see all the AD users/groups ,,rich01,Low,Closed,Support Request,01/Oct/2013 9:27 PM,15/Aug/2019 5:38 AM,1
+Support Request,JRACLOUD-35433,770657,Recently upgraded JIRA and attachments are not appearing in the issue.,,hvillagomez,Low,Closed,Support Request,21/Oct/2013 6:48 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-40991,768387,The following IE9 is not compatible with JIRA 6.3.6,,56814202,Low,Closed,Answered,24/Nov/2014 3:36 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-40875,753752,Workflow Error on updating a custom field,,v.khisaev,Low,Closed,Support Request,15/Nov/2014 10:40 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-34808,737960,XSRF Security Token Missing,,venkat.guruvelli,Low,Closed,Support Request,13/Sep/2013 1:24 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37642,768140,Cant login after migrating onDemand to ubuntu,,zoltanrakottyai,Low,Closed,Support Request,25/Mar/2014 3:15 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-30696,762141,Cannot save to DB,,dkong2012,Low,Closed,Handled by Support,25/Nov/2012 3:04 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-32356,762056,Cannot modify workflows,,five,Low,Closed,Handled by Support,28/Mar/2013 6:31 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-42796,761636,In the Attach Print Screen page  Java applet component loads too late,,mustafa.guney,Low,Closed,Answered,08/Apr/2015 6:28 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-36914,762022,Impossible to edit user profile,,ciliafred,Low,Closed,Support Request,09/Feb/2014 12:13 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-38311,761428,guest user can create filter and boards,,klaus.schulz,Low,Closed,Handled by Support,13/May/2014 7:38 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-43272,757465,Cannot Delete screen,,info277,Low,Closed,Support Request,06/May/2015 12:01 PM,15/Aug/2019 5:38 AM,1
+Support Request,JRACLOUD-42515,756389,GroupNotFoundException: ugly failure when attempt is made to add internal group to LDAP user,,minfrin,Low,Closed,Support Request,18/Mar/2015 11:33 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-34569,755264,"""Auto-update search results"" doesn't turn off",,jonathan.val,Low,Closed,Handled by Support,29/Aug/2013 12:57 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-35631,754936,Can't change original estimate later in workflow,,knowlesrd,Low,Closed,Support Request,04/Nov/2013 9:44 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37375,755053,Can't preview and view attachments,,alex.sydney,Low,Closed,Support Request,06/Mar/2014 7:46 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-37368,755042,Error after rebooting JIRA when JIRA SERVICE DESK is installed,,thibauld.leprince,Low,Closed,Support Request,06/Mar/2014 1:21 PM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-40792,754753,missing gadget list in dashboard,,ddumbugie,Low,Closed,Handled by Support,12/Nov/2014 1:59 AM,15/Aug/2019 5:38 AM,0
+Support Request,JRACLOUD-40346,753281,Software Development Workflow not seting resolution states correctly,,jstein1,Low,Closed,Support Request,08/Oct/2014 12:46 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-44092,751458,Login - The Jira is crashed when open the 1st time,,vo.thi.truong.an,Low,Closed,Handled by Support,01/Jul/2015 12:54 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38411,750673,AD Synchronise fails,,jmedalen,Low,Closed,Support Request,20/May/2014 6:01 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-37897,750733,new user has no access to issues or projects,,pfm,Low,Closed,Resolved Locally,14/Apr/2014 3:23 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-34952,768314,Cannot log in as Administrator right after Setup Wizard,,vbauge,Low,Closed,Support Request,23/Sep/2013 3:08 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-36843,731808,500ErrorPage.jsp at login,,bschwarting,Low,Closed,Support Request,04/Feb/2014 5:08 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38691,751237,JQL project != is very slow,,matt.doar,Low,Closed,Support Request,10/Jun/2014 8:24 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-42452,756177,Customize server homepage  ,,temimi.injez,Low,Closed,Support Request,13/Mar/2015 5:37 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38082,770788,"Unable to make the custom fields ""Multi User Picker"" and ""User Picker"" required via the validator.",,robert.yang1,Low,Closed,Support Request,29/Apr/2014 4:50 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-40311,762265,"When restoring JIRA data from an XML backup, the attachments, avatars & logos are missing.",,robert.jacobs,Low,Closed,Support Request,07/Oct/2014 3:14 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-30255,761779,Long text string doesn't wrap,,abrittan,Low,Closed,Duplicate,25/Oct/2012 9:35 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-43356,756527,Allow Normal User to create Project,,mostafa.sharaf,Low,Closed,Answered,12/May/2015 3:16 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38172,730071,LDAP Issue,,davidv2,Low,Closed,Support Request,06/May/2014 4:20 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-36967,747570,Current Assignee in security level makes this level visible for all users on creating issue screen,,falta,Low,Closed,Support Request,12/Feb/2014 8:38 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38257,747666,Users faces Fatal Error when the client PC Daylight Saving in not enabled ,,timaabedi2,Low,Closed,Support Request,11/May/2014 3:59 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-38006,747509,JIRA Calendar plugin filter problem,,judith_wren,Low,Closed,Support Request,23/Apr/2014 3:12 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-36214,747478,Error attempting to add Pathfinder to OnDemand instance,,paul32,Low,Closed,Support Request,16/Dec/2013 9:06 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-36932,747365,"""JIRA is locked"" on Centos 6",,adumitrescu,Low,Closed,Resolved Locally,10/Feb/2014 7:46 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-37802,747370,Exception rendering ticket after deleting priority,,bcran,Low,Closed,Support Request,06/Apr/2014 3:36 AM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-40840,728350,Bug with JIRA Tool Tips,,swapnil.gandhi10,Low,Closed,Answered,13/Nov/2014 4:53 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-37694,747241,"issue collector not working on ie 11, chrome or firefox",,eunice.mora,Low,Closed,Support Request,27/Mar/2014 5:13 PM,15/Aug/2019 5:37 AM,0
+Support Request,JRACLOUD-32562,762372,using urlencode(),,artashes.o,Low,Closed,Handled by Support,12/Apr/2013 11:18 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36075,747903,Four digit year time format doesn't translate with logging work,,dmaye@atlassian.com,Low,Closed,Answered,04/Dec/2013 9:51 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-43185,752870,Remaining estimate not changing,,ti2,Low,Closed,Answered,30/Apr/2015 1:51 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36074,740457,Cant search logged work entries,,tm1,Low,Closed,Support Request,04/Dec/2013 9:01 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32603,746925,How to send events to wso2 BAM server,,cristina,Low,Closed,Handled by Support,15/Apr/2013 6:33 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-31107,746403,Search for issues function have defect,,yuan.xy,Low,Closed,Handled by Support,28/Dec/2012 6:36 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36464,726578,"Activity stream intermittently shows zero ""JIRA"" Activity.  Other sources of data (Structure, Tempo, etc are not affected)",,chris.abboud,Low,Closed,Support Request,10/Jan/2014 7:03 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-38326,746342,NoSuchElementExeption on bulk edit of labels,,ohaleck,Low,Closed,Support Request,14/May/2014 10:51 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32748,746197,Issues page not rendering in IE 7 & IE 9.,,jhall,Low,Closed,Handled by Support,23/Apr/2013 6:12 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36020,740544,Custom field disappears from the navigator list,,tore.garder.larsen,Low,Closed,Support Request,29/Nov/2013 9:44 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-31117,745678,Error de Migración,,cespinoza,Low,Closed,Handled by Support,30/Dec/2012 10:35 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-45962,772897,Duplicate notifications,,mgorokhova,Low,Closed,Support Request,27/Oct/2015 8:55 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36596,747996,Protect one project from another,,rakesh.seshan,Low,Closed,Support Request,17/Jan/2014 5:24 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37792,745619,Internal Server Error,,kschweikert,Low,Closed,Support Request,04/Apr/2014 1:33 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-29643,745458,Error on Dashboard,,localhost,Low,Closed,Handled by Support,10/Sep/2012 9:40 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37728,745323,mail queue does not flush automatically,,christoph.diefenthal,Low,Closed,Support Request,31/Mar/2014 2:15 PM,15/Aug/2019 5:36 AM,5
+Support Request,JRACLOUD-37740,745319,Upgrade to 6.2.2 fails with no unique user mapping,,alexanderkerner24,Low,Closed,Support Request,01/Apr/2014 11:42 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-31761,745293,Cannot change Issue Security Scheme in JIRA v4.1#519,,bert.laverman@interaccess.nl,Low,Closed,Handled by Support,19/Feb/2013 8:36 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-38308,745267,User can't log in,,bmcgavo,Low,Closed,Resolved Locally,13/May/2014 5:21 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-38309,745221,Project deletion failure (NullPointerException),,arrebola,Low,Closed,Support Request,13/May/2014 5:45 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-60142,745164,"StringIndexOutOfBoundsException When Trying to Add a Group to a Role in a Project (small/big ""i"" character)",,john.tumbleson1737161732,Low,Closed,Support Request,10/Mar/2016 9:04 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37640,745150,Jira upgrade to 6.2.1 causes all issues to be lost,,softconteam,Low,Closed,Support Request,25/Mar/2014 2:34 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32722,745042,Is it possible to change or disable Date validator in jira?,,mdehghan,Low,Closed,Handled by Support,23/Apr/2013 6:10 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37634,744824,"Absent from the list, some projects. ",,lalo.ovalle1,Low,Closed,Support Request,25/Mar/2014 3:06 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37593,744619,transition property,,bwilliams1,Low,Closed,Support Request,21/Mar/2014 4:01 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-33523,744510,"Rest API: ""maxResults"" parameter used in URL has no effect",,roxana.dan,Low,Closed,Support Request,17/Jun/2013 10:25 AM,15/Aug/2019 5:36 AM,2
+Support Request,JRACLOUD-37573,744522,Tried upgrading from 5.x to latest version and installed service desk,,kazaparu,Low,Closed,Resolved Locally,20/Mar/2014 6:18 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36148,729125,Unexpected failure occurred while migrating bugs from Fogbugz,,f6b756d5-6eb8-406d-a6d5-34316c320586,Low,Closed,Support Request,10/Dec/2013 4:31 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37511,744164,"Empty ""In-Reply-To"" field in e-mail",,apanasevich.d,Low,Closed,Support Request,17/Mar/2014 12:59 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37491,744147,User has permission to Close/Resolve issues but the option does not appear on the screen,,kathi.paquet,Low,Closed,Support Request,14/Mar/2014 3:34 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-40937,746587,Getting error message when trying to view Kanban board,,knagarkar,Low,Closed,Support Request,18/Nov/2014 5:44 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37469,744165,API call results in NullPointerException,ohernandez@atlassian.com,ivo3,Low,Closed,Support Request,13/Mar/2014 12:09 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36226,743902,"""Comment"" buttons displayed twice while viewing the issue",,taylorkuntal,Low,Closed,Support Request,17/Dec/2013 1:46 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36184,743843,Email signature graphics attaching to JIRA issues,,rburns,Low,Closed,Support Request,12/Dec/2013 9:25 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36183,743842,Problem in submit button,,jayeshshyara26,Low,Closed,Support Request,12/Dec/2013 6:31 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36190,743834,Cannot attach file xxx. Unknown server error (200),,ycliu,Low,Closed,Support Request,13/Dec/2013 9:46 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36147,743793,JQL result on Userpicker(multi) change after migration 5.1.3 --> 6.1.3,,eric.depalle,Low,Closed,Resolved Locally,10/Dec/2013 4:24 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37583,744579,Bug on the page...it's crash,,tylerscottslater,Low,Closed,Support Request,21/Mar/2014 5:16 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37600,745241,ArchivedIssueViewPage java.lang.NullPointerException,,salumets.andrus,Low,Closed,Support Request,22/Mar/2014 12:10 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35789,743510,configuration change removed User role from many of our users..,,it79,Low,Closed,Support Request,13/Nov/2013 8:31 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37567,744480,jira-config.properties file doesn't affect anything,,seneralper,Low,Closed,Support Request,20/Mar/2014 8:27 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35795,743474,Activity Stream gadget issue,,junjiemars,Low,Closed,Support Request,14/Nov/2013 2:55 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32444,743427,Error Message on adding a transition to workflow,,elke perner,Low,Closed,Handled by Support,04/Apr/2013 2:29 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35686,743357,Unable to upload a user or project avatar,,j.chung,Low,Closed,Support Request,06/Nov/2013 7:56 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35068,743324,Customfield is not applicable for the current project and/or issue type,,wolfgang.seidler1,Low,Closed,Support Request,27/Sep/2013 6:10 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-47755,772509,If I migrate data from cloud JIRA 7.1.0 to standalone JIRA 7.0.4 then Agile feature missing,,atlassianadmins1583383207,Low,Closed,Support Request,11/Dec/2015 10:52 AM,15/Aug/2019 5:36 AM,2
+Support Request,JRACLOUD-35633,743342,"Mention Mail-Template with different design (i.e. footer, colors)",,jruppel,Low,Closed,Support Request,04/Nov/2013 10:42 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35989,743304,"Display error page by JIRA, when I clicked web link issue on activity stream.",,atlassian5,Low,Closed,Support Request,27/Nov/2013 8:12 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35976,743222,license key does not work in your JIRA instance 3.1.3,,dcanete,Low,Closed,Support Request,26/Nov/2013 5:52 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35973,743156,JIRA always perform full synchronisation to LDAP,,jirong.hu,Low,Closed,Support Request,26/Nov/2013 3:27 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35641,743064,Menus in JIRA 6.1.2,,alan.stephenson,Low,Closed,Support Request,04/Nov/2013 6:59 PM,15/Aug/2019 5:36 AM,1
+Support Request,JRACLOUD-35506,743018,Error when trying to add Custom Field,,bjorn.gullander,Low,Closed,Support Request,25/Oct/2013 2:41 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-38205,742963,No Open reviews causes extreme slow down,,martin.cassidy,Low,Closed,Support Request,07/May/2014 1:15 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-30097,742943,"When username is an email, the user link url is incorrect",,sauthieg,Low,Closed,Handled by Support,12/Oct/2012 7:34 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35528,728284,Jira startup failed,,aatfnajira,Low,Closed,Support Request,28/Oct/2013 8:57 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32716,742864,Cannot update the issues,,akhtarahmedsyed,Low,Closed,Handled by Support,22/Apr/2013 11:20 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35967,767684,Ability to Edit Maximised Activity Stream in System Dashboard does not Work,,steve.aplin,Low,Closed,Support Request,26/Nov/2013 9:48 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-38242,742123,Remove the message 'Some issue types are unavailable due to incompatible field configuration and/or workflow associations.',,gssd,Low,Closed,Support Request,09/May/2014 1:53 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32734,741892,Please wait a moment for the server to finish then retry your action,,heshanm,Low,Closed,Handled by Support,23/Apr/2013 11:54 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-43744,762029,automatically fetch the same as on page /secure/admin/ViewLicense!default.jspa,,grzegorz.szyszlo,Low,Closed,Tracked Elsewhere,08/Jun/2015 12:23 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-32647,741535,Trial version access,,peter.furlong,Low,Closed,Handled by Support,17/Apr/2013 4:16 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35112,741443,Auto Open new created issue in Version 5.2.7,,sascha.winter1,Low,Closed,Support Request,01/Oct/2013 2:35 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37975,741444,System time not consistent with time zone configuration,,oromero85,Low,Closed,Support Request,22/Apr/2014 12:29 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-35030,741278,Jira not showing User Select PopUp when adding Watchers to Issues,,adiallo,Low,Closed,Support Request,26/Sep/2013 9:17 AM,15/Aug/2019 5:36 AM,1
+Support Request,JRACLOUD-32246,727220,Create a new JIRA Project  within Market Risk Technology   new Key: MRTUAT,,brian.schubert,Low,Closed,Handled by Support,21/Mar/2013 6:27 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-36849,727148,JIRA filters go into advanced mode even for basic searches,,prasad.subraveti,Low,Closed,Support Request,04/Feb/2014 7:51 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-37437,727140,Attach Image activex control error,,rpatton,Low,Closed,Support Request,11/Mar/2014 10:15 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-34835,741174,JIRA upgrade issue,,chris.harman,Low,Closed,Support Request,16/Sep/2013 4:56 PM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-30303,761778,Hercules Scanning log files does not progress,,aboumediene,Low,Closed,Handled by Support,30/Oct/2012 8:52 AM,15/Aug/2019 5:36 AM,0
+Support Request,JRACLOUD-42365,761637,"Removing ""Browse Users"" global permission doesn't work for the Assignee",,fabio.turati,Low,Closed,Support Request,09/Mar/2015 5:57 PM,15/Aug/2019 5:35 AM,2
+Support Request,JRACLOUD-35744,731906,Print screen attachments in JIRA not working,,alan.stephenson,Low,Closed,Support Request,11/Nov/2013 7:38 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-42786,740512,State was partially changed during transition,,yakimant,Low,Closed,Support Request,07/Apr/2015 11:43 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35847,740496,Subtask information has gone missing,,simon3,Low,Closed,Support Request,18/Nov/2013 1:47 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35953,740416,Sever was contacted but has returned an error,,norvika,Low,Closed,Support Request,25/Nov/2013 5:31 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-38167,740236,Wanted to know the impact if we change the Global Date Format,,arpita.argulwar,Low,Closed,Support Request,06/May/2014 12:39 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-43084,738313,Invalid community license with a version mismatch error,,a1@newsite.by,Low,Closed,Support Request,27/Apr/2015 7:10 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-32659,738148,Blank dashboard by upgrading to XP sp3,,mdehghan,Low,Closed,Handled by Support,18/Apr/2013 4:56 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-32357,738037,Jira on Mac,,mswang7,Low,Closed,Handled by Support,28/Mar/2013 7:05 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35116,737946,Multiple emails are getting generated after making a comment or creating an issue,,trawal,Low,Closed,Support Request,01/Oct/2013 4:35 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37146,771750,The suggestions in Assignee dropdown do not seems to work correctly,,jira@uqtr.ca,Low,Closed,Support Request,21/Feb/2014 7:55 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-28008,737921,"project in (ACNET, ALLX, ALNU, ACNTW, ACVW) AND status CHANGED FROM ""Resolved"" TO ""Validated"" query doesn't work ",,shawnkielty,Low,Closed,Handled by Support,27/Apr/2012 10:04 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35734,771747,Javascript Error in JIRA,,jayd,Low,Closed,Support Request,08/Nov/2013 9:55 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35874,771742,Clicking on an attachment with spaces produces an Internal Server error,,manohar_venkataraman,Low,Closed,Support Request,19/Nov/2013 4:28 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-36598,771732,Import external project ondemand cloud,,augusto.vellozo,Low,Closed,Support Request,17/Jan/2014 8:09 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35082,771728,Customfield is not applicable for the current project and/or issue type,,wolfgang.seidler,Low,Closed,Duplicate,30/Sep/2013 6:32 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-59307,772499,"I can not access to issue Statuses in  ""ISSUE ATTRIBUTES""",,m.aminiomam15467726,Low,Closed,Support Request,11/Jan/2016 7:34 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-59174,772461,An exception occurred backing up: java.lang.IllegalStateException: Could not find column...,,haidx,Low,Closed,Duplicate,29/Dec/2015 7:48 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-34263,737475,Activity order icon not displayed.,,adm.jira@lantiq.com,Low,Closed,Support Request,12/Aug/2013 10:17 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-36143,737383,"Viewing other users avatars relies on the JIRA Users Global Permission, even if you are a JIRA Administrator",,mrawson,Low,Closed,Answered,10/Dec/2013 1:52 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35345,737370,Dashboard header dropdown menus appear behind dashboard widgets,,akriger,Low,Closed,Support Request,16/Oct/2013 2:54 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35344,737373,Dashboard header bar does not use correct color after upgrade to 6.1.1,,akriger,Low,Closed,Support Request,16/Oct/2013 2:50 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-34190,737004,Cannot upgrade JIRA from 4.4.3 to 6.0.5,,roberto.alvarez,Low,Closed,Support Request,06/Aug/2013 9:12 AM,15/Aug/2019 5:35 AM,1
+Support Request,JRACLOUD-34637,736931,"Jira filter Excel export ""Current fields"" not working? No colums selected",,yestbold.g,Low,Closed,Support Request,04/Sep/2013 8:58 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-40537,736106,Plugin not started in virtual Box,,emmanuel_edon,Low,Closed,Support Request,23/Oct/2014 10:24 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37018,735354,Expenders are no longer working in JIRA 6.2-rc1,,plante.frederick,Low,Closed,Resolved Locally,14/Feb/2014 3:22 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-28943,739472,Exception thrown when trying to use the CSV import in OnDemand,,sstreeting,Low,Closed,Handled by Support,14/Jul/2012 4:10 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-44998,764742,Mail handler uses another projects issue keys,,ktovmasian,Low,Closed,Support Request,26/Aug/2015 8:18 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37955,738503,"System Dashboard - Accepting issue shows a ""blankish"" dialog",,roberto.andrade1,Low,Closed,Support Request,18/Apr/2014 3:31 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-38173,771608,"Mail notification fails with message ""Failed adding mail for notification recipient""",,jkr,Low,Closed,Support Request,06/May/2014 5:40 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-40442,753553,Fatal error on OAuth token management page when user has tokens from non-existing consumer,,wirone,Low,Closed,Support Request,16/Oct/2014 8:59 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35933,733478,Workflow Transition Screen cannot be reset to None,,kessler,Low,Closed,Support Request,23/Nov/2013 10:44 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-38494,733285,getting error failed to load,,dennis.verdaasdonk,Low,Closed,Support Request,26/May/2014 10:32 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37904,733248,Startup issues every unclean shutdown,,aak_pol,Low,Closed,Support Request,15/Apr/2014 4:48 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-32579,770265,Custom JIRA Issue Collector does not load from JIRA OnDemand,,njm,Low,Closed,Handled by Support,14/Apr/2013 2:45 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37474,771724,textarea fields have different height in edit dialog and inline edit,,alied.perez,Low,Closed,Answered,13/Mar/2014 7:04 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37007,771706,Data Base error upgrading from 6.1.5 or 6.1.7 (Test box),,dray1,Low,Closed,Support Request,13/Feb/2014 9:14 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37063,735092,Jira creates duplicate cases on random basis,,mar,Low,Closed,Support Request,18/Feb/2014 9:47 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37022,734331,User Menu Bug,,hauser.j,Low,Closed,Support Request,15/Feb/2014 7:26 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-38053,735286,Problem with jira,,exploitation2,Low,Closed,Support Request,28/Apr/2014 8:06 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-32825,734228,Confluence cannot display 'Workload Pie Chart' macro,,mym@ciklum.com,Low,Closed,Handled by Support,29/Apr/2013 9:07 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-36907,771684,Jira CLI failing on 6.1.7.  Vendor indicates this is an issue with a specific SOAP API function,,dsonderling,Low,Closed,Support Request,07/Feb/2014 4:05 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-36796,771675,System dashboard problem,,betule,Low,Closed,Support Request,31/Jan/2014 9:06 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-35029,771673,Error when creating work log back in time.,,lla,Low,Closed,Support Request,26/Sep/2013 8:54 AM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-37939,753058,Mail handler parsing problem,,nicolas.bouchet1,Low,Closed,Support Request,17/Apr/2014 1:28 PM,15/Aug/2019 5:35 AM,0
+Support Request,JRACLOUD-34936,733908,Shared Dashboard is not visible to users,,jack.brooks,Low,Closed,Support Request,19/Sep/2013 7:21 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-43110,730798,Need new version to be compatible in Jira 6.3.1,,devtools,Low,Closed,Answered,21/Jul/2014 6:37 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37856,737618,"Users getting ""XSRF Security Token Missing"" when Creating Issues",,richardscire,Low,Closed,Support Request,09/Apr/2014 5:43 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-42325,730337,Exception: NS_ERROR_DOM_QUOTA_REACHED: Persistent storage maximum size reached,,datskov,Low,Closed,Support Request,05/Mar/2015 1:54 PM,15/Aug/2019 5:34 AM,2
+Support Request,JRACLOUD-36721,732564,Needs to map internal directory with Microsoft active directory.,,mahesh.thakkannavar,Low,Closed,Support Request,27/Jan/2014 5:07 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-34903,732451,Create Issue pop-up screen does not close after hitting Create,,jiraadmin64,Low,Closed,Support Request,18/Sep/2013 4:22 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38481,738335,Resolved date is not pulled through once ticket is closed,,billy.stinnette,Low,Closed,Support Request,23/May/2014 4:52 PM,15/Aug/2019 5:34 AM,1
+Support Request,JRACLOUD-36688,732282,Inconsistent Avatar Failure,,brown.3.mike1,Low,Closed,Handled by Support,23/Jan/2014 7:33 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36685,732258,Application link between Confluence and Jira doesn't work,,mary.wong,Low,Closed,Support Request,23/Jan/2014 6:35 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-33183,731967,Problem upgrading to 6,,jouni.renfors,Low,Closed,Support Request,22/May/2013 8:48 AM,15/Aug/2019 5:34 AM,1
+Support Request,JRACLOUD-37115,730399, XML import fails due to invalid characters,,sudharsang,Low,Closed,Support Request,20/Feb/2014 10:48 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-35382,731755,All Dashboards Missing and Now unable to get any support ,,btaggart,Low,Closed,Support Request,18/Oct/2013 11:24 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36399,730335,Searching Confluence spaces returns error,,tj5,Low,Closed,Support Request,07/Jan/2014 2:39 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-35011,730290,Can not forward a request to HipChat API,,michael.s.simon,Low,Closed,Handled by Support,25/Sep/2013 5:42 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37064,730267,sub process to configure on issue type level on Jira per workflow,,chris124,Low,Closed,Support Request,18/Feb/2014 11:43 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-28492,730212,"To Whom It may concern;",,ozgur,Low,Closed,Handled by Support,06/Jun/2012 11:11 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36199,731380,"I want to delete a user, but I can't search for issues that he commented on.",,fanni.kiss,Low,Closed,Support Request,14/Dec/2013 11:08 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36978,762760,"New added User (which is not default user), is wrongly picked up by post funtion as default user",,jan.wolf,Low,Closed,Support Request,12/Feb/2014 6:20 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-34636,768487,"Jira Filter return almost empty with ""List View""?",,yestbold.g,Low,Closed,Support Request,04/Sep/2013 8:52 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38310,731036,Cannot assign Fix Version to issues,,dave.cagle,Low,Closed,Support Request,13/May/2014 6:23 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-39571,750167,Cannot split JIRA instance on server,,alex.petchesi,Low,Closed,Support Request,18/Aug/2014 6:36 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38141,730083,Behaviors not behaving,,jwyen,Low,Closed,Answered,05/May/2014 4:41 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-40532,736081,filter is not working as designed,,gautamnarayanan,Low,Closed,Answered,23/Oct/2014 5:38 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37092,768534,Mismatched port warning message,,mhaney,Low,Closed,Support Request,19/Feb/2014 2:30 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-34982,730391,Project key invalid error,,jmom@squareis.com,Low,Closed,Support Request,24/Sep/2013 11:53 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38042,730368,mysql error,,knowledgep.system,Low,Closed,Support Request,26/Apr/2014 6:45 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-39007,768312,Report module plugin development: hidden report parameter is lost on report configuration,,azhdanov@gmail.com,Low,Closed,Answered,04/Jul/2014 4:35 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36103,768303,Installation failed: java.lang.IllegalStateException: You cannot perform an import with an invalid validation result.,,herbert.walde,Low,Closed,Support Request,06/Dec/2013 11:26 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38100,768301,Problem of unknownHostException with Confluence Gadget,,gfbongiovanni,Low,Closed,Support Request,30/Apr/2014 2:17 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37225,726314,"Create linked Task returns ""404 Page not found""",,pablo.culebras,Low,Closed,Support Request,27/Feb/2014 1:03 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37198,725892,404 Page,,forpdfsending,Low,Closed,Support Request,26/Feb/2014 8:12 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37445,727130,Update notification mail have HTML tag (use J-editor),,toon0210,Low,Closed,Support Request,12/Mar/2014 5:51 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-33316,729845,Issues not loading in FireFox,,maya.ctr.chase@faa.gov,Low,Closed,Support Request,29/May/2013 7:42 PM,15/Aug/2019 5:34 AM,1
+Support Request,JRACLOUD-37179,726285,Keep getting plugins failed to load during JIRA startup,,cindge,Low,Closed,Support Request,25/Feb/2014 1:59 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37085,725517,Project specific Custom field not showing when using parent = in query,,james.pink,Low,Closed,Support Request,19/Feb/2014 11:22 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36910,727312,BROWSE PROJECTS show all projects even though I am logged out,,mark.moore,Low,Closed,Support Request,07/Feb/2014 8:19 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36772,726927,Java bug,,infrastructure17,Low,Closed,Support Request,29/Jan/2014 11:22 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-42453,770902,Jira Server Add-On manager not updating with latest HipChat version,,mavalos,Low,Closed,Tracked Elsewhere,13/Mar/2015 9:06 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36710,732554,Can not filter issues on Project AND Custom Field,,aberthelin,Low,Closed,Support Request,24/Jan/2014 1:42 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36696,732233,Unable to remove Resolution field from Default Screen,,jcrouse,Low,Closed,Support Request,23/Jan/2014 11:23 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36621,726774,Very slow On Demand since 7 days,,marc17,Low,Closed,Support Request,20/Jan/2014 7:34 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36504,726267,Cannot manually change assignee on Move,,johnston1,Low,Closed,Support Request,14/Jan/2014 5:17 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-32577,729566,I keep getting captcha's for my account to log in although I shouldn't,,rept,Low,Closed,Handled by Support,14/Apr/2013 9:31 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36393,725527,Dashboards disappeared after upgrade to 6.1.5,,s.genin@ideotechnologies.com,Low,Closed,Support Request,07/Jan/2014 10:59 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-41839,770865,"Function mail.incoming.CreateOrCommentHandler produces error ""Exception while adding attachments to"" when sending email with attachment 4 times a minute",,l.valentin,Low,Closed,Support Request,29/Jan/2015 12:38 PM,15/Aug/2019 5:34 AM,1
+Support Request,JRACLOUD-37676,747697,Users on Jira are being automatically removed from groups they were setup being members of the group,,william.causey,Low,Closed,Support Request,26/Mar/2014 9:44 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-35481,729536,[User Management] Upgrading to 6.1 clears user Emails and replaces Full Name with UserName,,pierre.elkhoury,Low,Closed,Support Request,24/Oct/2013 3:31 PM,15/Aug/2019 5:34 AM,1
+Support Request,JRACLOUD-36356,725352,Issues chart is wrong,,rfirmin,Low,Closed,Support Request,03/Jan/2014 2:28 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38252,770853,"JIRA ""Filter Results"" dashboard gadget not updating according to settings",,chuckv,Low,Closed,Support Request,09/May/2014 8:37 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37710,770851,I can't add a field to a detailed view of an issue in a board,,mauro.chojrin,Low,Closed,Support Request,28/Mar/2014 2:50 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37390,770847,404 error when connecting to bitbucket,,plajoie,Low,Closed,Support Request,07/Mar/2014 6:21 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37661,770839,Jira 6.2 page not found 404,,dirk.kias,Low,Closed,Support Request,26/Mar/2014 11:56 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-37731,770832,Users don't receive notifications.,,cdipriamo,Low,Closed,Support Request,31/Mar/2014 6:18 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38179,770830,"Unable to Search by Custom Field ""Code Reviewed By""",,skuchka1,Low,Closed,Support Request,06/May/2014 8:51 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38991,770829,Jira hangs when moving an issue to the resolved state,,richardscire,Low,Closed,Support Request,03/Jul/2014 3:19 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-39162,770814,Filter on custom field not working after jira upgrade from 5.0.1 to 6.3.1,,frederic.bourry,Low,Closed,Support Request,17/Jul/2014 1:00 PM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-38415,770701,"Issue with jql query, not returning correct results as expected",,vicky.bairamidis,Low,Closed,Support Request,21/May/2014 5:50 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-34404,729447,"Hi Team,  When we search the issues and add the column of linked issues, we get the issues of multiple projkects in JIRA. Is there any way to filter out a single project in that fileld.  Regards  Dhananjay",,dhananjay.mukhedkar,Low,Closed,Support Request,20/Aug/2013 11:51 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-33209,768101,Jira 6.0 - System Dashboard not rendered properly in IE 8 & 10,,ak.com,Low,Closed,Support Request,23/May/2013 9:48 AM,15/Aug/2019 5:34 AM,0
+Support Request,JRACLOUD-36159,768072,Unable to Clone Issues after Upgrade,,mia.beckett,Low,Closed,Support Request,11/Dec/2013 1:37 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-38204,768051,The email notification goes to error queoue,,htaheri,Low,Closed,Support Request,07/May/2014 9:29 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35399,768009,Internal Server Error when deleting a sub-task,,matt.shelton,Low,Closed,Support Request,18/Oct/2013 4:42 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37596,767987,Cannot use Attach a Screenshot functionality,,michael.kort,Low,Closed,Support Request,21/Mar/2014 7:28 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36125,725458,Allow custom Status order for Two dimentional filter statistics.,,rvmadhav,Low,Closed,Support Request,09/Dec/2013 11:05 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-33917,767959,"Unable to delete an issue type ""Test"" (provided by Zephyr plugin)",,astern,Low,Closed,Support Request,16/Jul/2013 5:10 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34529,729360,Issue Search Created and Updated Dates Incorrect,,gary.lee1,Low,Closed,Handled by Support,27/Aug/2013 5:51 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-38022,767941,Migrating from JIRA OnDemand to a JIRA Installed Site,,james.mills,Low,Closed,Support Request,24/Apr/2014 2:16 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-28732,729355,"JQL Contain Operator ""~"" does not have te same behavior for Customfield",,v_thoule,Low,Closed,Handled by Support,27/Jun/2012 2:35 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34823,767858,After latest updates our JIRA on demand is working incredible slower,,krzysztof.pulkiewicz,Low,Closed,Support Request,15/Sep/2013 10:01 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36862,767835,NullPointerException while creating database on hosted jira,,soufiane2,Low,Closed,Support Request,05/Feb/2014 12:26 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34928,729297,Default Setting For Custom field not being set correctly,,it-supportservices,Low,Closed,Support Request,20/Sep/2013 1:08 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37045,767622,Trouble with making issues through incoming mail,,andreweber,Low,Closed,Support Request,17/Feb/2014 3:27 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34372,729254,Extrem old commits in source tab - Fisheye Plugin,,yvonne.koch,Low,Closed,Support Request,19/Aug/2013 2:25 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37950,729064,Dashboard Gadget Error,,michael82,Low,Closed,Support Request,18/Apr/2014 8:36 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37930,738071,No Crowd Application available,,iordannalbantov,Low,Closed,Support Request,16/Apr/2014 9:15 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37186,770796,403 when clicking User Managment,,awoollacott,Low,Closed,Support Request,25/Feb/2014 6:13 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37705,770789,Filter problem with JIRA,,chririmalala,Low,Closed,Support Request,28/Mar/2014 1:37 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37471,727201,include assignee and priority in each update notification email,,asif_khan,Low,Closed,Support Request,13/Mar/2014 1:14 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37468,726446,Dashboard: Main Menu List is hidden by Filter Box,,stefan.riepenhausen,Low,Closed,Support Request,13/Mar/2014 11:36 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37460,727391,Jira  restore from XML,,jun02130910,Low,Closed,Support Request,13/Mar/2014 8:19 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34985,731902,Update shutdown.sh to be more realistic,,josh.butts,Low,Closed,Support Request,24/Sep/2013 3:40 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36734,728743,External System Import from csv Error,,rakesh.g,Low,Closed,Support Request,27/Jan/2014 3:43 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35470,729985,Comments field problems,,andre.bloesch,Low,Closed,Support Request,23/Oct/2013 6:14 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36222,728696,JIRA 6.1.5 failed to start on Cent OS 6.5 on VirtualBox 4.3.4,,konedev,Low,Closed,Support Request,17/Dec/2013 12:43 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-33773,728655,Unable to move stories to 'In Progress',,smarmion,Low,Closed,Support Request,08/Jul/2013 4:14 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34693,725762,Sorting in issue navigator does not work,,jthreideh,Low,Closed,Support Request,06/Sep/2013 8:36 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-43735,768412,JIRA is crashing together with Stash,,mail368,Low,Closed,Handled by Support,06/Jun/2015 8:24 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34520,729317,Jira not available in browser after start.,,iberlov,Low,Closed,Handled by Support,27/Aug/2013 1:12 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37712,728502,All of our issues have disappeared,,martin.owen,Low,Closed,Support Request,28/Mar/2014 7:58 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-38071,770746,LDAP issue,,davidv2,Low,Closed,Support Request,28/Apr/2014 9:18 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-39682,768383,"""Assignee"" and ""reporter"" pickers in issue search expose user data",,matt55,Low,Closed,Answered,26/Aug/2014 12:08 AM,15/Aug/2019 5:33 AM,1
+Support Request,JRACLOUD-32609,768336,"Jira ""create issues and comments from emails"" mail handler no longer appends the FROM address",,it.nat,Low,Closed,Handled by Support,16/Apr/2013 4:07 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-33512,768323,Upgrade from 5.x to 6.0 java.lang.NullPointerException,,ugur.arpaci1,Low,Closed,Handled by Support,16/Jun/2013 4:56 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37332,732297,Can't configure columns in Queues in Service desk,,wendy.thorneloe,Low,Closed,Support Request,04/Mar/2014 1:50 PM,15/Aug/2019 5:33 AM,1
+Support Request,JRACLOUD-34312,727854,JIRA Comment Time Not Matching Server Time,,chipw,Low,Closed,Support Request,14/Aug/2013 6:40 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-38025,770736,Authentication Error integrating with ZenDesk,,gerald.ko,Low,Closed,Support Request,24/Apr/2014 5:33 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-31637,729381,account to login issue with multiple accounts,,astro_sk,Low,Closed,Handled by Support,11/Feb/2013 1:55 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-31682,726304,Issue count increasing only in one project every day,,i.mikhailov,Low,Closed,Handled by Support,14/Feb/2013 6:38 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32642,727007,Error importing data: Table 'AO_60DB71_RANK_ISSUE_LINK' does not have the identity property,,eliza.xu,Low,Closed,Handled by Support,17/Apr/2013 1:18 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36797,726974,jiralocked error,,ruben9,Low,Closed,Support Request,31/Jan/2014 9:47 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36811,726975,Atlassian service upselling showing up everytime I submit an issue - many of which we have,,mark63,Low,Closed,Support Request,02/Feb/2014 12:56 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36788,726949,Supported IE versions - Jira 6.0.8,,caroline.lindh,Low,Closed,Answered,30/Jan/2014 8:02 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36778,726943,Polish language doesn't work,,webdesign,Low,Closed,Answered,30/Jan/2014 8:41 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36718,726807,Anonymous Users can transition issues even though they cannot edit issues,,ngiven2,Low,Closed,Support Request,24/Jan/2014 9:54 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36641,726794,Sorting custom fields crashs JIRA,,andreas.merkle,Low,Closed,Support Request,21/Jan/2014 4:13 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32345,726747,Some time 'reported by me filter' is not showing the issues created by the actual user.,,bb_maruthi,Low,Closed,Handled by Support,27/Mar/2013 9:44 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-31595,727645,sent mail is appear,,vikastestengineer1984@gmail.com,Low,Closed,Handled by Support,07/Feb/2013 3:53 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32620,726721,Post-Functions Appear Duplicated,,buchanans,Low,Closed,Handled by Support,16/Apr/2013 3:27 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36648,726673,Login failure with internal JIRA user,,moniquebm,Low,Closed,Support Request,21/Jan/2014 7:32 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-38196,762857,"Unable to choose custom fields using ""Configure Fields"" when editing an issue and utilize a modified Screen Layout",,simon.marles,Low,Closed,Support Request,07/May/2014 3:02 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-38479,726631,The Issue can not be created from the email without a subject,,drubtsov,Low,Closed,Answered,23/May/2014 12:18 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37357,726623,Error converting XML to workflow descriptor.: root cause: The entity name must immediately follow the '&' in the entity reference.,,dani1,Low,Closed,Support Request,05/Mar/2014 5:17 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37566,728572,"Unable to use field ""issuelinks""",,marcjason.mutuc,Low,Closed,Support Request,20/Mar/2014 8:19 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37472,726435,single mail for two different updates on the same ticket,,asif_khan,Low,Closed,Support Request,13/Mar/2014 1:19 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-30675,729557,Filters get lost on upgrading to a new Jira-version ,,cmk,Low,Closed,Handled by Support,22/Nov/2012 2:18 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37586,762810,Atlassian Activity Module Plugin Crashes due to lack of Maintenance,,nhearn,Low,Closed,Support Request,21/Mar/2014 8:52 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37613,762804,No mail notification to self on create issue.,,jvisser3,Low,Closed,Resolved Locally,24/Mar/2014 9:30 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-33198,726988,Jira 6 IE9 displays incorrectly and sometimes not at all,,j.webber@irl.cri.nz,Low,Closed,Support Request,22/May/2013 10:57 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37183,726300,Attaching sceenshot through More Actions tab redirects me to oracle page.,,kundankumar10,Low,Closed,Support Request,25/Feb/2014 4:01 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34940,726298,data lost ,,514141178,Low,Closed,Support Request,22/Sep/2013 3:06 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37180,726291,Jira Migration Issue,,jaydip.p,Low,Closed,Support Request,25/Feb/2014 2:26 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36495,726270,JS error when click on ticket in filter view,,kristian.faeldt,Low,Closed,Support Request,14/Jan/2014 3:17 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37119,726257,Loading screen takes forever while editing profile,,harveyleung,Low,Closed,Support Request,20/Feb/2014 1:44 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36566,726089,When upgrading jira from 3.13.5 to 4.4.5 error occurred when parsing your installation dir,,tony.stone1,Low,Closed,Duplicate,16/Jan/2014 3:55 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36398,726088,Statuses still show as icons instead of lozenges,,smackie@atlassian.com,Low,Closed,Support Request,07/Jan/2014 1:35 PM,15/Aug/2019 5:33 AM,1
+Support Request,JRACLOUD-37971,725944,I couldn't save an Avatar image.,,ncornell,Low,Closed,Support Request,21/Apr/2014 5:32 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37972,725945,Jira crashed while trying to upgrade Jira Agile.,,ffrayman,Low,Closed,Support Request,21/Apr/2014 5:48 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37191,725925,Status in Issue Navigator different from status in issue,,matt.doar,Low,Closed,Answered,26/Feb/2014 12:25 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37211,725913,Commit Tabs When Viewing Jira Issue,,operations7,Low,Closed,Support Request,26/Feb/2014 9:41 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32366,725850,not longer possible to resolve issue and enter reason,,tnewman,Low,Closed,Handled by Support,28/Mar/2013 3:07 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36677,726778,Active directory synchronization lost after restart,,m.gonzalez,Low,Closed,Resolved Locally,23/Jan/2014 10:55 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36090,762666,Migracion Jira,,acetina,Low,Closed,Support Request,05/Dec/2013 9:18 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37969,770693,Unable to log into JIRA without Confluence Access,,rich15,Low,Closed,Support Request,21/Apr/2014 5:05 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36460,725642,Activity Stream not updating on dashboard,,pnichols104,Low,Closed,Support Request,10/Jan/2014 4:42 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35443,770686,Error when trying to trigger bamboo build from Jira webhook,,sebastien.delcoigne,Low,Closed,Support Request,22/Oct/2013 8:36 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36461,770670,Various Symbols in JIRA Web Interface displayes as unknown Unicode characters,,norbert.nemec,Low,Closed,Support Request,10/Jan/2014 4:48 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-32554,730952,Plugin Usage In Jira,,kbrown,Low,Closed,Handled by Support,11/Apr/2013 7:19 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36031,770666,Detail View in Issue Navigator in JIRA 6/0.8 is loading non stop,,collab-admin,Low,Closed,Support Request,02/Dec/2013 11:24 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36491,770664,Assignee doesn't get posted during Create Issue,,patty.boskin2,Low,Closed,Resolved Locally,13/Jan/2014 7:07 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36586,770658,"Fixed Version, Affected Version and Components fields in Issue View are not working as in Edit Issue View",,jens.hofmann,Low,Closed,Support Request,17/Jan/2014 10:51 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36848,770646,Transitioning to Status = Resolved allows Resolution = unresolved,,chad9,Low,Closed,Support Request,04/Feb/2014 7:21 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37078,725577,Jira OnDemand Comment required validator for workflow transitions always errors,,richard.yi,Low,Closed,Support Request,18/Feb/2014 11:39 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36496,770629,Can't received email / can't debug,,admin313,Low,Closed,Support Request,14/Jan/2014 3:50 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35992,770628,JIRA (6.0.5) Start up Failed,,vsaindane1,Low,Closed,Support Request,27/Nov/2013 1:16 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37099,725542,"""Create Subtask"" action in dash board not working",,sonya_shen,Low,Closed,Support Request,19/Feb/2014 5:45 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36634,770622,"""Keep Me Logged In"" doesn't work when viewing tickets from exported sprint",,s.allcock,Low,Closed,Support Request,21/Jan/2014 11:50 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36047,770618,"Indentifiy the anonymous users defined in hidden ""Reporter"" field""",,betule,Low,Closed,Support Request,03/Dec/2013 12:18 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37103,725511,An error occurred while rendering an email message.,,quackenbusht,Low,Closed,Support Request,19/Feb/2014 9:22 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37086,725526,Jira no notification,,cesar.salvado,Low,Closed,Support Request,19/Feb/2014 11:57 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36590,770605,Zendesk ticket mapping,,jasons,Low,Closed,Support Request,17/Jan/2014 2:00 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35432,770604,Cannot see issue attachments after performed an upgrade,,hvillagomez,Low,Closed,Support Request,21/Oct/2013 6:52 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37062,725415, From: field address is not appended at the end of the issue's Description,,markus.vogel,Low,Closed,Support Request,18/Feb/2014 9:38 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36363,725374,A story without a sub-task appears as sub-task:,,lisaw,Low,Closed,Support Request,03/Jan/2014 11:20 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36352,725351,Cannot remove Epic Name field from Requirement issue  ,,dorona,Low,Closed,Support Request,03/Jan/2014 9:10 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34883,770570,config.sh fails with error no JRE_HOME or JAVA_HOME set,,rich01,Low,Closed,Support Request,17/Sep/2013 4:34 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37942,727480,Gadgets will not parse,,greg.mcallister,Low,Closed,Support Request,17/Apr/2014 5:20 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37016,725309,assigned to me does not display my issues,,jvormeer,Low,Closed,Support Request,14/Feb/2014 2:57 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-38045,725284,Strikethough appears on Jira Agile after I update a new issue which is not resolved,,kim.zvik,Low,Closed,Support Request,19/Apr/2014 2:00 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-36402,725275,Unable to move issue to a different project,,dan.graetzer,Low,Closed,Support Request,07/Jan/2014 4:59 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-35115,770564,Jira. Not expected pop up about Jira glitch and impossibility to reach the server,,linuz,Low,Closed,Support Request,01/Oct/2013 4:21 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-28498,727395,Set Issue Type - Sub-task default - not working,,rickatlasso,Low,Closed,Handled by Support,06/Jun/2012 11:41 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37470,727352,"""disable notification checkbox""",,asif_khan,Low,Closed,Support Request,13/Mar/2014 1:11 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-37466,727353,New User Email confirmations are not firing from our Instance,,nilesh.chohan,Low,Closed,Support Request,13/Mar/2014 10:17 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34377,729252,Unable to use confluence page gadget in jira,,andrew.marick,Low,Closed,Support Request,19/Aug/2013 6:21 PM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34416,726331,Nothing happens when pressing 'Confirm' to upload a Profile Picture in JIRA,,servicedesk2,Low,Closed,Support Request,21/Aug/2013 7:10 AM,15/Aug/2019 5:33 AM,0
+Support Request,JRACLOUD-34280,735052,I have problems with the translation of custom fields,,durdy48,Low,Closed,Support Request,13/Aug/2013 2:16 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-37214,725922,Our Instance is SUPER Slow,,bdunwood,Low,Closed,Support Request,27/Feb/2014 12:48 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-37083,725584,Error on Table Audit_Log during update from 6.1.7 to 6.2,,ciliafred,Low,Closed,Handled by Support,19/Feb/2014 9:34 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-34757,767017,ClassCastException during indexing,,mhammel,Low,Closed,Support Request,11/Sep/2013 2:19 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-35647,743424,IE 8 Issues when opening issues in JIRA ,,alan.stephenson,Low,Closed,Support Request,04/Nov/2013 11:16 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-37485,767303,JIRA issue Macro and JIRA chart Macro should be available for confluence Users without a JIRA account,,elvir.dln,Low,Closed,Support Request,14/Mar/2014 9:14 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-37757,745586,Removing Watchers,,moakley2,Low,Closed,Support Request,02/Apr/2014 5:10 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-32319,745061,integration with other tools,,jefferson.alves,Low,Closed,Handled by Support,26/Mar/2013 7:58 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-37678,745030,Column Settings Not Saved in Issue Navigator,,rgorski,Low,Closed,Support Request,27/Mar/2014 1:37 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-32932,726264,"Jira Issue Collector : The ""submit"" button and ""close"" buttons are not visible when feedback dialog loads",,senthilkumar.sp,Low,Closed,Handled by Support,02/May/2013 10:45 AM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-37354,747952,JIRA OnDemand still not receiving commit messages from Bitbucket,,mkauffman,Low,Closed,Support Request,05/Mar/2014 4:24 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-30225,767232,Notification emails are not being sent for Completed or Resolved issues.,,kutztowncowboy,Low,Closed,Handled by Support,23/Oct/2012 6:59 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-36084,767199,JQL Operator predicates not picking up the correct dates- seems as if dates are not been evaluated correctly.,,ctomlinson1,Low,Closed,Not a bug,05/Dec/2013 3:25 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-34587,767041,500 Internal Error when a webhook URL that contains a port specification is triggered,,rl_ted,Low,Closed,Support Request,30/Aug/2013 6:49 PM,15/Aug/2019 5:32 AM,0
+Support Request,JRACLOUD-29714,767969,"""Failed to find UserTransaction"" errors in catalina.out",,jawahar@kidshealth.org,Low,Closed,Resolved Locally,13/Sep/2012 8:01 PM,19/Sep/2018 4:52 AM,0
+Support Request,JRACLOUD-27282,746894,Activity Streams unable to combine Jira & Bamboo Streams/Feeds,,anthroprose,Low,Closed,Handled by Support,25/Feb/2012 12:50 AM,19/Sep/2018 4:24 AM,0
+Support Request,JRACLOUD-26352,768135,Streams Activity Provider,mchin,agalati@kc.rr.com,Low,Closed,Handled by Support,22/Nov/2011 1:35 PM,19/Sep/2018 4:24 AM,0
+Support Request,JRACLOUD-27275,729194,When cloning a transition doesn't update the title that appears in transition button,,tsol,Low,Closed,Handled by Support,24/Feb/2012 1:36 PM,14/Sep/2018 5:26 AM,0
+Support Request,JRACLOUD-27958,749604,"""NetConnection.Call.Failed: HTTP: Status 500"" when try design workflow in IE",,denigor,Low,Closed,Handled by Support,24/Apr/2012 10:02 AM,14/Sep/2018 5:26 AM,0
+Support Request,JRACLOUD-19482,758594,Error when exporting data to Excel,dalonso,andrewd,Low,Closed,Won't Do,20/Oct/2009 7:18 PM,11/Sep/2018 7:14 AM,0
+Support Request,JRACLOUD-37784,764214,Collector creates non-contiguous issues,,steve.f.thompson+atlassian,Low,Closed,Handled by Support,03/Apr/2014 7:29 PM,11/Sep/2018 5:43 AM,0
+Support Request,JRACLOUD-32693,740477,Issue Collection Default Security Setting,,necromnius,Low,Closed,Handled by Support,19/Apr/2013 10:52 PM,11/Sep/2018 5:43 AM,0
+Support Request,JRACLOUD-29549,726065,User mentions don't expand to show full display names,,boutcher,Low,Closed,Handled by Support,30/Aug/2012 10:36 AM,11/Sep/2018 5:39 AM,0
+Support Request,JRACLOUD-26173,729529,After setting default language to German logging out does not work anymore,mchin,yseifermann,Low,Closed,Invalid,07/Nov/2011 2:53 PM,10/Sep/2018 6:06 AM,0
+Support Request,JRACLOUD-30579,729949,Error parsing utf characters,,imacdonald,Low,Closed,Handled by Support,15/Nov/2012 10:32 PM,10/Sep/2018 6:02 AM,0
+Support Request,JRACLOUD-39709,762197,401 Unauthorized when trying to access JIRA OnDemand REST API,,pstokuc,Low,Closed,Answered,27/Aug/2014 6:12 AM,26/Apr/2017 1:50 PM,0
+Support Request,JRACLOUD-43594,746794,Transition with validator on issues having active and completed throws error,,sylaw,Low,Closed,Fixed,29/May/2015 10:18 PM,02/Apr/2017 11:00 AM,0
+Support Request,JRACLOUD-37635,744869,WikiStyle Renderer Mode for custom fields doesn't work,,wilfried.nickl,Low,Closed,Handled by Support,25/Mar/2014 9:36 AM,02/Apr/2017 10:38 AM,0
+Support Request,JRACLOUD-35931,735277,Error trying to link Jira and Confluence,,bhawley,Low,Closed,Support Request,23/Nov/2013 1:13 AM,02/Apr/2017 10:32 AM,0
+Support Request,JRACLOUD-35404,727862,please see description,,endale,Low,Closed,Support Request,18/Oct/2013 10:42 PM,02/Apr/2017 10:30 AM,0
+Support Request,JRACLOUD-35402,735647,"Settings from ""assigned to me"" are in chinese",,oleksandr.semitko,Low,Closed,Support Request,18/Oct/2013 7:27 AM,02/Apr/2017 10:30 AM,0
+Support Request,JRACLOUD-35380,735841,Notice of registration of the request is not sent to the author,,v.sapegin,Low,Closed,Answered,18/Oct/2013 6:07 AM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-35337,725263,I cannot see upcoming sprints in Team calendar of type 'JIRA agile Sprints',,erwin.saegesser@nis.ch,Low,Closed,Support Request,16/Oct/2013 3:39 AM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-35319,734774,Issue with Activity stream gadget,,ivan.godar,Low,Closed,Support Request,15/Oct/2013 7:17 AM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-35283,738079,Email notifications are being sent for old updates,,aaron13,Low,Closed,Support Request,12/Oct/2013 7:22 PM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-35268,731811,"JIRA.  Issue.  ""All"" section on Activity area never loaded",,sevenfourk,Low,Closed,Tracked Elsewhere,11/Oct/2013 11:40 AM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-35191,734651,multi records for one entry in cwd_user_atttributes pf JIRA DB,,yszhang,Low,Closed,Support Request,07/Oct/2013 4:26 PM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-35147,732520,All active directory groups being displayed,,rich01,Low,Closed,Support Request,03/Oct/2013 2:48 PM,02/Apr/2017 10:29 AM,0
+Support Request,JRACLOUD-34670,737097,Forgot your Password E-Mail does not work,,e.bernich,Low,Closed,Support Request,05/Sep/2013 3:11 PM,02/Apr/2017 10:27 AM,0
+Support Request,JRACLOUD-34459,726672,Set default sub-task issue type - how to?,,tamas.szitnyai,Low,Closed,Support Request,22/Aug/2013 3:02 PM,02/Apr/2017 10:26 AM,0
+Support Request,JRACLOUD-32961,744472,Cannot see available workflows when editing a projects workflow,,hugo.korwaser@ametek.co.uk,Low,Closed,Handled by Support,07/May/2013 11:26 AM,02/Apr/2017 10:20 AM,0
+Support Request,JRACLOUD-32901,747251,XMLEscapeUtil fails with nullpointerexception on XML Import,,brads,Low,Closed,Handled by Support,02/May/2013 8:29 PM,02/Apr/2017 10:20 AM,0
+Support Request,JRACLOUD-32526,731051,JIRA screen enhancement,,admins6,Low,Closed,Handled by Support,10/Apr/2013 4:20 PM,02/Apr/2017 10:19 AM,0
+Support Request,JRACLOUD-32484,736989,JavaScript error,,v.rafinia,Low,Closed,Handled by Support,08/Apr/2013 10:47 AM,02/Apr/2017 10:19 AM,0
+Support Request,JRACLOUD-32461,767716,"Excel export from Issue Navigator is crashing when JQL request was containing customfield name with ""é"" character",,clement.capiaux@valiantys.com,Low,Closed,Handled by Support,05/Apr/2013 3:16 PM,02/Apr/2017 10:18 AM,0
+Support Request,JRACLOUD-32397,746081,Problems with Google Apps,,contacto,Low,Closed,Fixed,02/Apr/2013 6:17 AM,02/Apr/2017 10:18 AM,0
+Support Request,JRACLOUD-32312,735885,How to configurate email subject,,vladimir1,Low,Closed,Handled by Support,26/Mar/2013 5:38 PM,02/Apr/2017 10:18 AM,0
+Support Request,JRACLOUD-32239,726566,Can't save special polish  characters like ćńś,,szymon.kluba,Low,Closed,Handled by Support,21/Mar/2013 2:56 PM,02/Apr/2017 10:18 AM,0
+Support Request,JRACLOUD-32238,767004,"For Issue Type Migration, ""Inactive"" Users presents error ""The reporter does not have permission to create issue""",,janderson1,Low,Closed,Handled by Support,21/Mar/2013 2:55 PM,02/Apr/2017 10:18 AM,0
+Support Request,JRACLOUD-32233,754812,"""you did not enter a valid date"" error message when picking a date by datepicker (due date) but format is right and the date settings are untouched. locale has been untouched also.",,alessio.fimognari,Low,Closed,Handled by Support,21/Mar/2013 1:04 PM,02/Apr/2017 10:18 AM,0
+Support Request,JRACLOUD-32153,744125,Basic Search does not provide pop-up for criteria selection,,nathan6,Low,Closed,Handled by Support,18/Mar/2013 4:29 PM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32152,727209,The documentation for the different resolutions has an incorrect resolution type,,jira24,Low,Closed,Handled by Support,18/Mar/2013 4:02 PM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32149,768222,Error on one of the Dashboard Filters after upgrade to 5.2.7,,cpark,Low,Closed,Handled by Support,18/Mar/2013 1:47 PM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32126,768049,404 JIRA plugins manager deleted himself.,,edu.nuri,Low,Closed,Handled by Support,15/Mar/2013 7:15 AM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32109,726892,Base url of Confluence not used when linking a page to a Jira issue,,d.dam,Low,Closed,Handled by Support,14/Mar/2013 12:51 PM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32097,738388,"On my ondemand Jira instance, Log out confirmation is set to NEVER, but it is still asking me to confirm the log out intention.",,afin,Low,Closed,Handled by Support,14/Mar/2013 12:23 AM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32061,729831,"""Create or Comment Handler"" ignore Default Assignee",,denigor,Low,Closed,Handled by Support,12/Mar/2013 9:09 AM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32060,746404,Customizing Email templates,,vinit.swar,Low,Closed,Handled by Support,12/Mar/2013 4:45 AM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32055,726896,Issues with labels acting like they have none in search and summary view,,marshall.alexander,Low,Closed,Handled by Support,11/Mar/2013 8:22 PM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32037,731487,adding new user,,sarita_srinu,Low,Closed,Handled by Support,10/Mar/2013 7:08 AM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-32022,728597,Since Universal Plugin Manager Update to 2.9 Zephyr licence is not reconized,,nicolas.belland,Low,Closed,Handled by Support,08/Mar/2013 7:58 AM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-31988,740497,JIRA integration with Active Directory,,schowdhary1,Low,Closed,Handled by Support,06/Mar/2013 7:36 PM,02/Apr/2017 10:17 AM,0
+Support Request,JRACLOUD-31941,744069,Mentions not working,,tdimmig,Low,Closed,Handled by Support,04/Mar/2013 9:55 PM,02/Apr/2017 10:16 AM,0
+Support Request,JRACLOUD-31919,742192,Group assignment of user is corrupt,,doppler,Low,Closed,Handled by Support,01/Mar/2013 3:59 PM,02/Apr/2017 10:16 AM,0
+Support Request,JRACLOUD-31814,732281,Changing the Reporter Field,,stuart.wilson,Low,Closed,Handled by Support,22/Feb/2013 4:27 PM,02/Apr/2017 10:16 AM,0
+Support Request,JRACLOUD-31732,739846,Can we bring data internal to HP but keep the software on-demand?,,patelkaushal,Low,Closed,Handled by Support,17/Feb/2013 4:04 AM,02/Apr/2017 10:16 AM,0
+Support Request,JRACLOUD-31710,743488,"Some user getting ""The JIRA server could not be contacted. This may be a temporary glitch or the server may be down"" when remotely accessed",,shyjup,Low,Closed,Handled by Support,15/Feb/2013 6:58 AM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31696,725488,"Date Started in Resolve-Screen should be set to Time, the Issue was set to ""In Progress"" the first time.",,frejos,Low,Closed,Handled by Support,14/Feb/2013 5:07 PM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31668,738049,Add More Gadgets into Dashboard.,,jirasupport,Low,Closed,Handled by Support,13/Feb/2013 6:29 AM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31639,729857,Warning in startup logs about LDAP not being configured,,kuekuune,Low,Closed,Handled by Support,11/Feb/2013 2:55 PM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31604,726218,to show the components field in create sub-task screen with the parent compnonents selected by default?,,rajukc530,Low,Closed,Handled by Support,07/Feb/2013 12:30 PM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31550,726302,"Receive message of related issues when deleting a version, but no issues exist",,karie.kelly@phytel.com,Low,Closed,Handled by Support,03/Feb/2013 3:48 PM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31537,729390,The JIRA workflow designer displays a proxy authentication dialog,,info@docminer.com,Low,Closed,Handled by Support,01/Feb/2013 6:32 PM,02/Apr/2017 10:15 AM,1
+Support Request,JRACLOUD-31530,730172,Slow response of filter customization tool JIRA 5.2 with Internet Explorer 8,,lumir.kvaca,Low,Closed,Handled by Support,01/Feb/2013 12:19 PM,02/Apr/2017 10:15 AM,0
+Support Request,JRACLOUD-31429,740329,"Japanese localization custom fields (and value in list), custom issue types, custom statuses",,k.lyakhovsky,Low,Closed,Handled by Support,24/Jan/2013 1:10 PM,02/Apr/2017 10:14 AM,1
+Support Request,JRACLOUD-31406,742978,How to install Jira on Linux(CentOS 6.0),,it.xiamen,Low,Closed,Handled by Support,23/Jan/2013 2:04 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31400,731809,Administration quick search missing,,dieter,Low,Closed,Handled by Support,22/Jan/2013 12:49 PM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31398,745173,Add comments,,gregorymeier,Low,Closed,Handled by Support,22/Jan/2013 10:44 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31380,725815,Pie Gadget does not include reopened issues,,radek.antoniuk@quiddia.com,Low,Closed,Handled by Support,21/Jan/2013 10:37 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31352,746909,Kuali Rice Release Notes Query Imporovement,,gptrude,Low,Closed,Handled by Support,17/Jan/2013 7:29 PM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31344,729157,Checking the security level and the user by creating an issue,,d.muellers,Low,Closed,Handled by Support,17/Jan/2013 1:49 PM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31339,742934,Resolving issue without logged work removes original estimate,,magahl,Low,Closed,Handled by Support,17/Jan/2013 9:55 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31327,768053,Administration->Plugins->Configure OAuth results in java error,,fred@edgespring.com,Low,Closed,Handled by Support,16/Jan/2013 6:19 PM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31311,729393,Custom field not showing in Issue Navigator even when filters limited to those the custom field is set for,,abrittan,Low,Closed,Handled by Support,15/Jan/2013 12:29 PM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31289,728972,Transition not available,,veddermatic,Low,Closed,Handled by Support,14/Jan/2013 5:11 PM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31276,746233,More Actions not displaying full menu in IE8 where as displaying in Mozilla 17.0.1,,amruta.panda@honeywell.com,Low,Closed,Handled by Support,14/Jan/2013 8:28 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31244,725775,Assigned to me gadget doesn't show reopened issue,,tomaskenis,Low,Closed,Handled by Support,11/Jan/2013 11:07 AM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31206,725318,JIRA dashboard some users have +Add Gadget while others do not ,,jhoffmann@woodmen.org,Low,Closed,Handled by Support,09/Jan/2013 5:00 PM,02/Apr/2017 10:14 AM,0
+Support Request,JRACLOUD-31160,727187,Borders missing around input elements,,nx,Low,Closed,Handled by Support,07/Jan/2013 2:47 AM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-31133,726404,Upgrade to latest JIRA version Another instance of JIRA,,jhoffmann@woodmen.org,Low,Closed,Handled by Support,02/Jan/2013 1:59 PM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-31124,726236,Custom Events: Failed to publish web-hooks for event,,lenzman,Low,Closed,Handled by Support,31/Dec/2012 4:42 PM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-31116,746849,REST API delivers INTERNAL SERVER ERROR,,frittilo,Low,Closed,Handled by Support,30/Dec/2012 10:58 AM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-31073,736747,System Error page for the few screens in https://issuetracking.jpmchase.net/jira16/browse/OMP,,u680609,Low,Closed,Handled by Support,21/Dec/2012 11:19 PM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-31058,729943,Installation problem - Jira can't connect to SQL Server with instance name,,kdjrj,Low,Closed,Handled by Support,21/Dec/2012 8:31 AM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-30964,727692,login page crashed when using numbers,,battage,Low,Closed,Handled by Support,13/Dec/2012 7:23 PM,02/Apr/2017 10:13 AM,0
+Support Request,JRACLOUD-30916,762681, Error in Application Linkers plugin,,acsjira@honeywell.com,Low,Closed,Handled by Support,11/Dec/2012 4:31 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30888,767647,Error uploading JIRA workflow toolbox,,jhoffmann@woodmen.org,Low,Closed,Handled by Support,07/Dec/2012 4:40 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30886,729362,Log Work button in Issue View does not work in JIRA OnDemand,,jeffbyrnes,Low,Closed,Handled by Support,07/Dec/2012 4:03 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30881,727478,"jira crash 3 days in a row aprox same time, no info in jira or system logs",,dbottger@csstars.com,Low,Closed,Handled by Support,07/Dec/2012 1:34 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30880,727458,cannot send support ticket from jira,,dbottger@csstars.com,Low,Closed,Handled by Support,07/Dec/2012 1:32 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30865,767691,Unable to start JIRA server with AJP protocol,,gokulamurthy,Low,Closed,Handled by Support,06/Dec/2012 1:41 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30862,742953,Quick Search does not always work,,hauer,Low,Closed,Handled by Support,06/Dec/2012 9:34 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30848,742955,default issue security not used when security level field hidden (and error message),,jmroth,Low,Closed,Handled by Support,05/Dec/2012 5:52 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30838,727463,Session time outs during a bulk issue change,,atlassian@turneround.net,Low,Closed,Handled by Support,05/Dec/2012 9:08 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30834,742946,timeout detected incorrectly without an option to proceed.,,yuriylook,Low,Closed,Handled by Support,05/Dec/2012 2:40 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30832,727371,"browser hangs when ""Start Progress"" is pressed.",,adrianoptiver,Low,Closed,Resolved Locally,05/Dec/2012 12:27 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30800,767247,Log Work icon (plus sign) does not bring up menu,,martin.lyne,Low,Closed,Handled by Support,03/Dec/2012 12:11 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30799,767741,Jira shuts down and we loose data done ,,tshepo@infowarestudios.co.za,Low,Closed,Handled by Support,03/Dec/2012 11:56 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30766,742952,IE8 Layout Overlaps with Date Picker on JIRA 4.4.1,,trinsghost,Low,Closed,Handled by Support,29/Nov/2012 9:43 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30721,728755,JIRA Eclipse connector reports that RPC services are not available,,dma_k,Low,Closed,Handled by Support,27/Nov/2012 11:12 AM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30711,729647,Creating an issue gets canceled,,lauri.vasko@proekspert.ee,Low,Closed,Handled by Support,26/Nov/2012 12:53 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30666,738468,Inconsistency while displaying issue status,,joseadp,Low,Closed,Handled by Support,21/Nov/2012 5:03 PM,02/Apr/2017 10:12 AM,0
+Support Request,JRACLOUD-30642,735148,Could not find column 'EXCLUDE_ISSUE_DETAILS' in previously parsed query,,gimartins,Low,Closed,Handled by Support,20/Nov/2012 5:09 PM,02/Apr/2017 10:11 AM,0
+Support Request,JRACLOUD-30561,767952,Startup fails if -Dhttp.nonProxyHosts contains the pipe-character,,muffl0n,Low,Closed,Handled by Support,15/Nov/2012 9:24 AM,02/Apr/2017 10:11 AM,0
+Support Request,JRACLOUD-30507,767618,javax.mail.FolderClosedException thrown by Comment creator on IMAP,,intersol,Low,Closed,Handled by Support,12/Nov/2012 8:59 PM,02/Apr/2017 10:11 AM,0
+Support Request,JRACLOUD-30385,741436,One issue is very slow to load,,jimbo80s,Low,Closed,Handled by Support,06/Nov/2012 9:54 AM,02/Apr/2017 10:11 AM,0
+Support Request,JRACLOUD-30013,745636,Attach screenshot applet doesn't work when JIRA is proxied,,jfarnsworth,Low,Closed,Handled by Support,08/Oct/2012 1:49 PM,02/Apr/2017 10:09 AM,0
+Support Request,JRACLOUD-29796,731820,Error forwarding email - incoming mail server,,7a19f77d-7815-4c36-8356-a1659c0eaf53,Low,Closed,Handled by Support,19/Sep/2012 3:17 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29715,733593,Email notifications duplicating for individual notification,,edenny@deyta.com,Low,Closed,Handled by Support,13/Sep/2012 8:29 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29599,728649,Search Ticket as an administrator,,uniccloud,Low,Closed,Handled by Support,05/Sep/2012 12:45 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29586,726784,Can't delete Widget with org.apache.shindig.gadgets.GadgetException after XML Import,,p.westrich,Low,Closed,Handled by Support,04/Sep/2012 8:59 AM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29553,745631,Email deleted when create user is NOT checked and email comes from unknown user.,,kristin.steinhardt,Low,Closed,Handled by Support,30/Aug/2012 2:12 PM,02/Apr/2017 10:08 AM,0
+Support Request,JRACLOUD-29302,744785,JSON Object TypeError in Chrome,,adtech.chris,Low,Closed,Handled by Support,13/Aug/2012 8:29 AM,02/Apr/2017 10:07 AM,0
+Support Request,JRACLOUD-27752,726251,Cannot remove user from group,,glewe,Low,Closed,Handled by Support,02/Apr/2012 10:54 AM,02/Apr/2017 10:02 AM,0
+Support Request,JRACLOUD-27512,743135,"""Configure Fields"" button on first step creating issue",dcurrie@atlassian.com,derrick.fans,Low,Closed,Handled by Support,14/Mar/2012 9:58 AM,02/Apr/2017 10:01 AM,0
+Support Request,JRACLOUD-27273,746927,Watchers column is empty in the issue navigator,,alice paillard,Low,Closed,Handled by Support,24/Feb/2012 11:22 AM,02/Apr/2017 10:00 AM,0
+Support Request,JRACLOUD-26931,746648,blabla j'ai un problème sur cette support request,,jackhearta,Low,Closed,Handled by Support,26/Jan/2012 11:24 PM,02/Apr/2017 9:59 AM,0
+Support Request,JRACLOUD-26930,746659,"Héhé support request qslkdfjqsdfmlkjqsf
+qsf
+qs
+fdqs
+fq
+sf
+qs",,jackhearta,Low,Closed,Handled by Support,26/Jan/2012 11:24 PM,02/Apr/2017 9:59 AM,0
+Support Request,JRACLOUD-26715,768190,Subscritpion emails continue after filter has been deleted,bdziedzic,stevekrysko,Low,Closed,Handled by Support,05/Jan/2012 4:20 PM,02/Apr/2017 9:58 AM,0
+Support Request,JRACLOUD-26571,729881,"Cannot create groups in Jira.  My permissions are all correct, but nothing shows on the scree to allow me to create a group.",mchin,phaecb,Low,Closed,Handled by Support,15/Dec/2011 7:42 PM,02/Apr/2017 9:58 AM,0
+Support Request,JRACLOUD-26176,739338,Duplicated ticket created,,xjrk,Low,Closed,Handled by Support,07/Nov/2011 9:12 PM,02/Apr/2017 9:57 AM,0
+Support Request,JRACLOUD-21684,758600,SAC or JIRA  Changing Priorities of Issues,aatkins,mfinch,Low,Closed,Won't Do,02/Jul/2010 5:17 PM,02/Apr/2017 9:49 AM,0
